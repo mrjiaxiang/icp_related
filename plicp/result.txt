@@ -1,0 +1,1019 @@
+plicp Match Successful:-0.00235122,0.000749908,0.105637
+plicp Match Successful:0.00223336,-0.00837884,0.117965
+plicp Match Successful:0.0104271,0.0073945,0.0738176
+plicp Match Successful:0.0281282,0.00148779,0.0249874
+plicp Match Successful:0.0362744,-0.00416939,-0.0331913
+plicp Match Successful:0.0186296,-0.00196641,-0.103195
+plicp Match Successful:0.0314972,-0.00374119,-0.159797
+plicp Match Successful:0.0218265,-0.0101336,-0.149808
+plicp Match Successful:0.023854,-0.00953467,-0.181091
+plicp Match Successful:0.0275819,-0.00256171,-0.176502
+plicp Match Successful:0.0241983,-0.00624699,-0.172225
+plicp Match Successful:0.0153774,-0.00620658,-0.152139
+plicp Match Successful:0.0258266,-0.0061862,-0.19334
+plicp Match Successful:0.0244174,-0.00628535,-0.193326
+plicp Match Successful:0.0217297,-0.00700482,-0.163436
+plicp Match Successful:0.0232694,0.00196012,-0.162411
+plicp Match Successful:0.0229726,-0.00682042,-0.0457925
+plicp Match Successful:0.0135651,0.000452616,0.0206837
+plicp Match Successful:0.0146087,0.00031297,0.0910187
+plicp Match Successful:0.018463,0.000577485,0.0741435
+plicp Match Successful:0.01368,0.00224608,0.0241448
+plicp Match Successful:0.019682,-0.00493134,-0.0510024
+plicp Match Successful:0.016656,0.00238814,-0.136019
+plicp Match Successful:0.0227421,-0.00353112,-0.123481
+plicp Match Successful:0.0142272,-0.00233496,-0.153285
+plicp Match Successful:0.0153382,-0.00278271,-0.18989
+plicp Match Successful:0.0193761,0.000445071,-0.184142
+plicp Match Successful:0.010903,0.00150764,-0.115091
+plicp Match Successful:0.0154961,-0.00696443,-0.0202391
+plicp Match Successful:0.015682,0.000153453,0.0225352
+plicp Match Successful:0.0174554,-0.000932135,0.0255218
+plicp Match Successful:0.0162755,-0.000725497,0.0121649
+plicp Match Successful:0.0174687,-0.0146053,-0.0369124
+plicp Match Successful:0.0171521,0.000536927,-0.0883577
+plicp Match Successful:0.01616,-0.00318623,-0.164245
+plicp Match Successful:0.0181101,0.000398963,-0.159236
+plicp Match Successful:0.0148315,-0.00105009,-0.161356
+plicp Match Successful:0.011576,-0.00657921,-0.0548604
+plicp Match Successful:0.0238198,-0.00697989,-0.016209
+plicp Match Successful:0.0113115,0.00408124,-0.0176951
+plicp Match Successful:0.00449396,0.00781959,-0.0397664
+plicp Match Successful:-0.00153544,-0.00621873,-0.0401474
+plicp Match Successful:-0.00817029,0.0025208,0.0647609
+plicp Match Successful:0.00361914,-0.00594698,0.0705611
+plicp Match Successful:0.0036969,0.000643486,0.125995
+plicp Match Successful:0.00466678,0.00252671,0.101171
+plicp Match Successful:0.00757736,0.00332971,0.0445182
+plicp Match Successful:0.0190295,-0.00618206,-0.00242015
+plicp Match Successful:0.0133324,0.00148989,-0.0605266
+plicp Match Successful:0.0176695,-0.00430088,-0.143737
+plicp Match Successful:0.0200605,-0.00322416,-0.170938
+plicp Match Successful:0.0173491,0.00282318,-0.163545
+plicp Match Successful:0.0104488,-0.0046251,-0.163399
+plicp Match Successful:0.0151735,-0.00397709,-0.162706
+plicp Match Successful:0.0152132,-0.0105823,-0.191346
+plicp Match Successful:0.0201671,0.00116436,-0.165145
+plicp Match Successful:0.0114406,0.00313309,-0.1537
+plicp Match Successful:0.0141385,-0.00622384,-0.11815
+plicp Match Successful:0.0131184,-0.000656734,-0.0768217
+plicp Match Successful:0.014813,-0.00451581,-0.0626423
+plicp Match Successful:0.0129816,0.00963111,-0.0413331
+plicp Match Successful:-0.0140567,-0.0085904,-0.0858421
+plicp Match Successful:-0.00330679,0.00792522,0.0729218
+plicp Match Successful:-0.00346892,0.00226289,0.0895874
+plicp Match Successful:0.00128708,-0.00119834,0.129062
+plicp Match Successful:0.00866067,0.0111597,0.132002
+plicp Match Successful:0.0137536,-0.00234856,0.0679449
+plicp Match Successful:0.0159029,0.00233192,0.0553311
+plicp Match Successful:0.0132148,-0.00675911,-0.0273827
+plicp Match Successful:0.0226694,0.0113835,-0.0790079
+plicp Match Successful:0.00677016,-0.00414789,-0.188128
+plicp Match Successful:0.0118143,-0.000854187,-0.16535
+plicp Match Successful:0.0182956,0.00861541,-0.104945
+plicp Match Successful:0.0118707,-0.0108172,-0.0857041
+plicp Match Successful:0.0217905,0.0043393,-0.0196296
+plicp Match Successful:0.00930718,-4.46755e-05,-0.0901298
+plicp Match Successful:0.0109477,0.00540206,-0.0644082
+plicp Match Successful:-0.0138097,-0.00481913,-0.0136219
+plicp Match Successful:0.00288281,0.00375012,0.0175505
+plicp Match Successful:-0.00158986,0.00136354,0.00264678
+plicp Match Successful:0.00156568,-0.000311203,0.000305806
+plicp Match Successful:0.000902662,0.000570227,0.000730053
+plicp Match Successful:-0.00660219,0.0117886,0.0793408
+plicp Match Successful:0.0106819,-0.0194597,0.134614
+plicp Match Successful:0.00538742,0.0017857,0.286951
+plicp Match Successful:0.00292517,-0.0049027,0.199951
+plicp Match Successful:0.0179222,0.00576239,0.171287
+plicp Match Successful:0.0360622,2.74433e-06,0.0694747
+plicp Match Successful:0.0476149,0.00155852,-0.00340272
+plicp Match Successful:0.0502552,-0.00164553,-0.0456904
+plicp Match Successful:0.0548975,0.00544447,-0.0497677
+plicp Match Successful:0.0469638,-0.00673587,-0.0402834
+plicp Match Successful:0.0520924,-0.00178323,-0.00310338
+plicp Match Successful:0.0551457,0.000177054,-0.00946582
+plicp Match Successful:0.0524818,0.00635476,0.00670736
+plicp Match Successful:0.0507332,-0.0140872,0.00662051
+plicp Match Successful:0.0526477,-0.0017026,0.0237285
+plicp Match Successful:0.0541999,0.00539655,0.0039039
+plicp Match Successful:0.0481692,0.00693786,0.0102276
+plicp Match Successful:0.0533083,-0.00754609,0.00770864
+plicp Match Successful:0.0511013,-0.005308,0.00726278
+plicp Match Successful:0.0567648,0.0135483,-0.00560922
+plicp Match Successful:0.0474595,-0.00829884,-0.0127591
+plicp Match Successful:0.0534838,-0.00710719,-0.000282201
+plicp Match Successful:0.0526276,-0.00484375,-0.00745849
+plicp Match Successful:0.0545199,0.00993531,-0.00807805
+plicp Match Successful:0.0478312,-0.00513743,-0.00683952
+plicp Match Successful:0.0511884,-0.00128531,0.0142552
+plicp Match Successful:0.0540684,-0.00154937,-0.00441949
+plicp Match Successful:0.0511365,0.014213,-7.74378e-05
+plicp Match Successful:0.0494641,-0.00759017,0.000976812
+plicp Match Successful:0.0527613,0.00418034,0.0132772
+plicp Match Successful:0.0551515,0.00973483,-0.00264647
+plicp Match Successful:0.0496557,0.00524675,-0.00539567
+plicp Match Successful:0.0517056,-0.00171475,0.00463264
+plicp Match Successful:0.052183,-0.00731278,-0.00270896
+plicp Match Successful:0.0496774,0.0220795,-0.0127579
+plicp Match Successful:-0.00388,-0.00673021,-0.00811542
+plicp Match Successful:-0.000350643,-0.00144995,0.00413055
+plicp Match Successful:0.000307407,-0.00252395,0.00179876
+plicp Match Successful:-6.17442e-05,0.0523122,0.0756735
+plicp Match Successful:0.00556235,0.00251805,0.189437
+plicp Match Successful:0.0495582,0.201658,0.270491
+plicp Match Successful:-0.0125126,-0.0250295,0.272109
+plicp Match Successful:0.0185751,0.0232356,0.284943
+plicp Match Successful:-0.0393226,-0.0328972,0.24403
+plicp Match Successful:0.0390894,0.0220611,0.140665
+plicp Match Successful:-0.00336362,-0.000689493,0.000917779
+plicp Match Successful:0.00515211,0.00179864,-0.00669895
+plicp Match Successful:0.0192399,-0.000683925,0.0216607
+plicp Match Successful:0.0213796,0.000534257,0.0373877
+plicp Match Successful:0.0212923,0.0018242,0.0319851
+plicp Match Successful:0.0180917,-0.00139745,0.0203392
+plicp Match Successful:0.022195,0.000526742,0.0180409
+plicp Match Successful:0.0267737,-0.00217504,0.00697256
+plicp Match Successful:0.03292,0.00172824,-0.013463
+plicp Match Successful:0.0331383,0.000612106,-0.00750434
+plicp Match Successful:0.0402666,-0.00196871,0.0117429
+plicp Match Successful:0.0316398,0.00152794,0.0027436
+plicp Match Successful:0.0385126,-0.00164923,-0.0166029
+plicp Match Successful:0.0470072,0.00173205,-0.0221969
+plicp Match Successful:0.0298281,-0.00304754,0.00508237
+plicp Match Successful:0.0450913,0.000611549,0.0180574
+plicp Match Successful:0.0446458,-0.00043771,-0.00217949
+plicp Match Successful:0.041335,0.00014447,-0.0171036
+plicp Match Successful:0.043542,0.00106949,-0.000489803
+plicp Match Successful:0.0486694,-0.00150781,0.0172142
+plicp Match Successful:0.0388843,-0.000814618,0.00932323
+plicp Match Successful:0.0406,-0.000384442,-0.0140706
+plicp Match Successful:0.0462418,0.00163134,-0.0164733
+plicp Match Successful:0.0568674,-0.00235024,0.0139675
+plicp Match Successful:0.0525111,0.00128222,0.0234978
+plicp Match Successful:0.0428537,-0.000840279,-0.00572365
+plicp Match Successful:0.0587797,0.00176754,-0.0204635
+plicp Match Successful:0.0563244,-0.00010387,0.00916557
+plicp Match Successful:0.0454994,-0.00234056,0.0180521
+plicp Match Successful:0.0399058,0.00125277,0.00781351
+plicp Match Successful:0.0525129,-0.000565437,-0.0164565
+plicp Match Successful:0.0366348,0.000535142,-0.0244843
+plicp Match Successful:0.0433974,-0.00279065,0.0121951
+plicp Match Successful:0.0429789,0.000437883,0.0193707
+plicp Match Successful:0.0419727,-0.00124408,-0.0065179
+plicp Match Successful:0.021292,-0.000175122,-0.0228335
+plicp Match Successful:0.0524744,0.00169228,0.00944878
+plicp Match Successful:0.0589722,-0.00137881,0.0216029
+plicp Match Successful:0.0206443,-0.000154739,0.000961854
+plicp Match Successful:0.043358,-0.00218908,-0.0233498
+plicp Match Successful:0.0473508,0.00193503,-0.00911824
+plicp Match Successful:0.0322344,-0.00422877,0.00377869
+plicp Match Successful:0.0478347,0.00304818,0.0190355
+plicp Match Successful:0.0636945,-0.00147305,-0.00652658
+plicp Match Successful:0.0752615,0.000844175,-0.0116201
+plicp Match Successful:0.0326836,-0.000264943,0.0085088
+plicp Match Successful:0.0372743,-0.000194282,0.0169662
+plicp Match Successful:0.0505805,0.000240206,0.0117158
+plicp Match Successful:0.0764193,-0.0023376,-0.0134684
+plicp Match Successful:0.0636514,0.000622489,-0.0143525
+plicp Match Successful:0.0249027,-0.0024431,-0.000627479
+plicp Match Successful:0.039595,0.000891265,0.0170429
+plicp Match Successful:0.0317473,-0.00152734,-0.014383
+plicp Match Successful:0.0113074,0.00120136,-0.016914
+plicp Match Successful:0.0319105,-0.000545898,0.0164387
+plicp Match Successful:0.00745961,0.000629583,0.0336711
+plicp Match Successful:0.0140418,0.00115558,0.015368
+plicp Match Successful:0.0212155,0.000823133,-0.00424239
+plicp Match Successful:0.0256497,0.00092275,-0.0164513
+plicp Match Successful:0.00923939,-0.000942793,0.00889856
+plicp Match Successful:0.0152926,-0.00165286,0.00791696
+plicp Match Successful:0.0247074,-0.00157325,-0.0174532
+plicp Match Successful:0.00858415,0.00159416,-0.0122264
+plicp Match Successful:0.0131252,0.00160317,0.0212236
+plicp Match Successful:0.0312555,0.00237607,0.0351089
+plicp Match Successful:0.0128941,0.00561675,0.0089968
+plicp Match Successful:0.0612946,0.00198626,-0.00741637
+plicp Match Successful:0.00788658,-0.000198089,-0.0260678
+plicp Match Successful:0.0211581,0.0015424,0.0256182
+plicp Match Successful:0.0128296,0.000792977,0.0165284
+plicp Match Successful:0.0129597,0.00148585,-0.00151497
+plicp Match Successful:0.0148802,-0.0028151,-0.0255801
+plicp Match Successful:0.010143,0.000249171,-0.00547354
+plicp Match Successful:0.0215704,0.000440683,0.0101074
+plicp Match Successful:0.0170076,0.0026217,0.0204452
+plicp Match Successful:0.0166238,0.00140403,0.0173706
+plicp Match Successful:0.0183518,0.00328632,-0.00108781
+plicp Match Successful:0.00968371,0.00157735,-0.0211464
+plicp Match Successful:0.00842585,0.00418106,-0.0135178
+plicp Match Successful:0.0209528,0.000633292,0.0185932
+plicp Match Successful:0.0161059,0.005405,0.0154253
+plicp Match Successful:0.0184541,-0.00146697,-0.0120097
+plicp Match Successful:0.00848577,0.00863545,-0.0130599
+plicp Match Successful:0.00783058,-0.00279877,-0.00894884
+plicp Match Successful:0.0304059,-0.000759368,0.0262973
+plicp Match Successful:0.00206697,0.00832128,-0.0173329
+plicp Match Successful:-0.023204,-0.0106567,-0.11209
+plicp Match Successful:-0.0280044,0.0127019,-0.117712
+plicp Match Successful:-0.00671449,0.00148335,-0.151787
+Not Enough Correspondence: i 1, 4,4
+ICP Iterations Failed!!
+PLICP Match Failed!!!!
+icp Match Successful:0.011,0.011,0
+Not Enough Correspondence: i 1, 0,0
+ICP Iterations Failed!!
+PLICP Match Failed!!!!
+icp Match Successful:-0.227014,-0.227101,-0.330264
+Not Enough Correspondence: i 0, 4,4
+ICP Iterations Failed!!
+PLICP Match Failed!!!!
+icp Match Successful:-0.328739,-0.107848,-0.318009
+plicp Match Successful:1.06639,-0.195368,-1.29842
+plicp Match Successful:-0.00942111,-0.00331046,-0.154641
+plicp Match Successful:-0.00222726,-0.0027055,-0.056936
+plicp Match Successful:0.00455568,0.0151688,0.0270287
+plicp Match Successful:-0.0012729,0.00192771,0.0806749
+plicp Match Successful:-0.0310703,0.000219549,0.135731
+plicp Match Successful:0.0305159,0.00396288,0.0810418
+plicp Match Successful:-0.00380462,0.00804651,0.0524711
+plicp Match Successful:-0.00432925,0.0186636,0.0571993
+plicp Match Successful:0.0017972,-0.0112989,0.102349
+plicp Match Successful:0.00304731,0.00950241,0.147054
+plicp Match Successful:0.000791479,-0.000615167,0.086999
+plicp Match Successful:0.0028165,0.00793346,0.0742828
+plicp Match Successful:0.0210134,-0.000798471,0.0766611
+plicp Match Successful:-0.0067903,0.00355454,0.135739
+plicp Match Successful:0.0101913,-0.00408221,0.123966
+plicp Match Successful:-9.61452e-05,0.00946573,0.131028
+plicp Match Successful:0.0259807,-0.000361052,0.110109
+plicp Match Successful:0.0245522,0.00218815,0.0410953
+plicp Match Successful:0.0126773,0.00181733,-0.0294056
+plicp Match Successful:0.00175552,-0.00121445,-0.0254914
+plicp Match Successful:0.00254113,-0.00301975,-0.00926277
+plicp Match Successful:-0.00203569,0.00157588,0.000455869
+plicp Match Successful:3.42077e-05,-0.00150686,0.00238298
+plicp Match Successful:-0.033526,0.0251819,0.0908675
+plicp Match Successful:0.0194211,-0.00056241,0.183788
+plicp Match Successful:0.00228266,-0.00847111,0.266839
+plicp Match Successful:0.000639113,0.0248639,0.290421
+plicp Match Successful:0.0173298,0.00753335,0.28406
+Not Enough Correspondence: i 1, 0,0
+ICP Iterations Failed!!
+PLICP Match Failed!!!!
+icp Match Successful:3.77937,0.0707013,2.03998
+plicp Match Successful:0.0207946,-0.00760852,0.199524
+plicp Match Successful:0.020451,0.00714057,0.0450365
+plicp Match Successful:0.0345427,0.0129887,-0.0434388
+plicp Match Successful:0.044131,-0.00197645,-0.0750567
+plicp Match Successful:0.0542391,0.0106315,-0.0550193
+plicp Match Successful:0.043019,0.00348281,-0.025187
+plicp Match Successful:0.0564921,-0.0202095,0.0227052
+plicp Match Successful:0.0527523,-0.00317831,0.0305416
+plicp Match Successful:0.0530604,0.00468264,0.0211497
+plicp Match Successful:0.0486524,0.00342612,0.0331621
+plicp Match Successful:0.0533504,-0.010855,0.0462222
+plicp Match Successful:0.0525817,-0.00943813,0.0379301
+plicp Match Successful:0.0577185,0.00861526,0.0126335
+plicp Match Successful:0.0496417,-0.00092169,0.000215671
+plicp Match Successful:0.0504162,-0.00906977,0.00451358
+plicp Match Successful:0.0550212,0.0032608,-0.000265917
+plicp Match Successful:0.0514528,0.000836728,-0.00884303
+plicp Match Successful:0.0498718,-0.00700199,-0.00208982
+plicp Match Successful:0.0540267,-0.00486699,0.00825049
+plicp Match Successful:0.054229,-0.00330007,-0.00242952
+plicp Match Successful:0.0542576,0.000935756,-0.00019336
+plicp Match Successful:0.0540673,-0.00926874,0.0108527
+plicp Match Successful:0.0507421,-0.0109104,0.00775324
+plicp Match Successful:0.0552379,0.00238799,-0.000968364
+plicp Match Successful:0.0498548,-0.00178903,-0.00498175
+plicp Match Successful:0.0519886,-0.00673095,0.0101201
+plicp Match Successful:0.0575026,-0.00513737,0.00806347
+plicp Match Successful:0.0518153,0.00117846,-0.00294149
+plicp Match Successful:0.0501419,-0.0015219,-0.00157892
+plicp Match Successful:0.042446,0.00782163,-0.00077902
+plicp Match Successful:0.0127339,-0.00161226,-0.00582231
+plicp Match Successful:-0.00225785,-0.000600895,0.00232044
+plicp Match Successful:-0.000659083,0.000108701,-0.000442633
+plicp Match Successful:0.00293695,0.00604965,0.00602622
+plicp Match Successful:-0.000826976,-0.00877179,0.107797
+plicp Match Successful:-0.0022222,-0.00336657,0.225525
+plicp Match Successful:-0.00149355,-0.00183632,0.264497
+plicp Match Successful:0.00655229,-0.00110029,0.282671
+plicp Match Successful:0.0195096,0.0115601,0.14831
+plicp Match Successful:-0.00459136,-0.00079916,0.032645
+plicp Match Successful:0.0108079,-8.25177e-06,-0.0168548
+plicp Match Successful:0.00779817,-0.00196299,-0.000583352
+plicp Match Successful:0.0221221,-0.000513658,0.00031006
+plicp Match Successful:0.0257757,-0.00155784,-0.0271213
+plicp Match Successful:0.0236818,0.00665071,-0.0251653
+plicp Match Successful:-0.0103617,-0.00142119,-0.0489638
+plicp Match Successful:0.00271169,0.000706356,0.0295393
+plicp Match Successful:0.00297218,0.000609266,0.06691
+plicp Match Successful:0.00830978,0.00175033,0.12159
+plicp Match Successful:0.0146865,0.00134428,0.147591
+plicp Match Successful:0.0031668,0.000383008,0.031505
+plicp Match Successful:0.0218057,0.000549892,-0.000285797
+plicp Match Successful:0.0137282,-0.000774414,-0.104399
+plicp Match Successful:0.0188734,-0.00343724,-0.0674033
+plicp Match Successful:0.0229742,0.00132547,-0.0334337
+plicp Match Successful:0.00446536,-0.00071896,-0.037313
+plicp Match Successful:0.0127173,0.000620462,-0.0358627
+plicp Match Successful:-0.0115143,-0.00126489,-0.00479074
+plicp Match Successful:0.00245953,0.00396968,0.0268559
+plicp Match Successful:-0.0127131,-0.00120753,0.0590538
+plicp Match Successful:-0.00278706,-0.0027329,0.123943
+plicp Match Successful:0.0121003,0.000264757,0.0900518
+plicp Match Successful:0.0101009,0.00356377,0.0538002
+plicp Match Successful:0.00208618,0.00342405,0.0366577
+plicp Match Successful:-0.000474784,-0.00306071,0.00531104
+plicp Match Successful:-0.00912634,0.00603528,0.0887756
+plicp Match Successful:0.00365199,-0.000192138,0.0951447
+plicp Match Successful:0.0041655,0.00439347,0.0764857
+plicp Match Successful:0.0106471,0.00236999,0.0545669
+plicp Match Successful:0.0182424,-0.00195275,0.0235331
+plicp Match Successful:-0.00312088,0.000706093,0.00352796
+plicp Match Successful:0.00191497,-0.00218813,0.0300067
+plicp Match Successful:0.0139159,-0.0141395,0.0542539
+plicp Match Successful:0.0190461,-0.00159558,0.106521
+plicp Match Successful:0.00423744,-0.00659225,0.109131
+plicp Match Successful:0.00318156,0.0156719,0.123653
+plicp Match Successful:0.0151454,0.00842262,0.0759811
+plicp Match Successful:0.0178698,0.000432538,0.0477143
+plicp Match Successful:0.0199152,-0.0104642,-0.0208338
+plicp Match Successful:0.0257908,-0.0147096,-0.0513072
+plicp Match Successful:0.0167074,-0.00438688,-0.0417921
+plicp Match Successful:0.0140872,-0.000385412,-0.0346017
+plicp Match Successful:0.0268384,-0.00964064,-0.062844
+plicp Match Successful:0.0183203,-0.00492448,-0.0633282
+plicp Match Successful:0.0173266,-0.00529994,-0.0739558
+plicp Match Successful:0.0148217,-0.00820822,-0.0483205
+plicp Match Successful:0.0181654,-0.00766346,-0.0508249
+plicp Match Successful:0.0161987,-0.00973435,-0.0350742
+plicp Match Successful:-0.00430047,0.000846816,-0.0278289
+plicp Match Successful:0.000101713,0.0112646,0.0583752
+plicp Match Successful:0.0156654,0.00332805,0.0449812
+plicp Match Successful:0.00878101,0.00290667,0.104016
+plicp Match Successful:0.00488222,0.000365904,0.104156
+plicp Match Successful:0.00153518,-0.00465092,0.0137712
+plicp Match Successful:-0.00148615,-0.00542124,0.0180872
+plicp Match Successful:-0.00221168,0.00754082,0.0298039
+plicp Match Successful:-0.00325505,0.00705086,0.102935
+plicp Match Successful:-0.00656058,-0.0137069,0.0788464
+plicp Match Successful:0.0100969,0.00940781,0.0739921
+plicp Match Successful:9.93222e-05,-0.00886355,0.0143058
+plicp Match Successful:-5.77162e-05,-0.00558718,0.00726834
+plicp Match Successful:-0.0011319,0.0105807,0.0571814
+plicp Match Successful:-0.00116111,0.00224393,0.0976149
+plicp Match Successful:-0.00303745,-0.0219966,0.0771169
+plicp Match Successful:0.0163259,0.012689,0.0704178
+plicp Match Successful:0.0154567,-0.0245831,0.0211016
+plicp Match Successful:-0.00185351,0.0116657,0.00264667
+plicp Match Successful:-0.00137048,0.00957437,0.0471617
+plicp Match Successful:-0.00366367,-0.00696831,0.068219
+plicp Match Successful:-0.00342796,-0.00616399,0.116032
+plicp Match Successful:0.00999659,0.0153751,0.103312
+plicp Match Successful:0.0104639,-0.00434099,0.0190486
+plicp Match Successful:0.00506513,-0.00334116,-0.00634543
+plicp Match Successful:0.0160232,-0.000267607,-0.015205
+plicp Match Successful:-0.0113723,-0.010008,-0.0797674
+plicp Match Successful:0.00835115,0.0295144,0.0660724
+plicp Match Successful:-0.00835033,-0.00917396,0.0580357
+plicp Match Successful:-0.00379426,-0.00632489,0.121722
+plicp Match Successful:0.00248894,-0.00545763,0.088452
+plicp Match Successful:0.00861717,-0.00822575,0.0768267
+plicp Match Successful:0.0187756,0.0069036,0.0177612
+plicp Match Successful:-0.00844471,-0.00750304,0.0203225
+plicp Match Successful:-0.0084866,-0.00653528,0.0438353
+plicp Match Successful:-0.00320583,-0.00054407,0.106754
+plicp Match Successful:-0.0032529,-0.0029229,0.0778513
+plicp Match Successful:0.013135,0.00624026,0.105359
+plicp Match Successful:0.0197473,-0.00246894,0.0269542
+plicp Match Successful:0.0115992,0.00604735,-0.0163048
+plicp Match Successful:-0.0010531,-0.00567387,-0.0226634
+plicp Match Successful:0.0268155,-0.00819158,-0.173983
+plicp Match Successful:0.0442187,0.0181125,-0.066344
+plicp Match Successful:0.0507202,0.0594826,-0.146924
+plicp Match Successful:0.00469926,-0.00982825,0.0725404
+plicp Match Successful:0.0113397,0.0050111,0.0463254
+plicp Match Successful:0.000781896,0.00124194,0.117037
+plicp Match Successful:0.00860282,0.000824826,0.112607
+plicp Match Successful:-0.0152266,-0.0251828,0.0471226
+plicp Match Successful:0.014435,-0.00086528,0.0604262
+plicp Match Successful:0.0167025,0.00172807,0.0566149
+plicp Match Successful:0.00420695,0.00097211,-0.00519093
+plicp Match Successful:0.0507863,0.00642959,-0.0957091
+plicp Match Successful:0.0203685,0.00071738,-0.136917
+plicp Match Successful:0.0204011,0.00268155,-0.0609603
+plicp Match Successful:-0.0144296,-0.00253522,-0.106558
+plicp Match Successful:4.50908e-05,0.00245225,-0.0165847
+plicp Match Successful:-0.015144,-0.00168754,-0.0313694
+plicp Match Successful:-0.00804642,0.000132582,-0.0877481
+plicp Match Successful:-0.0111091,-0.00631412,-0.0804166
+plicp Match Successful:0.000578459,-0.00474346,-0.0938726
+plicp Match Successful:0.0149745,-0.0032828,-0.0223717
+plicp Match Successful:-0.00313711,-0.00486668,0.00439921
+plicp Match Successful:-0.0272059,0.0050337,0.0604288
+plicp Match Successful:-0.0251703,-0.0172336,0.00425343
+plicp Match Successful:0.000340878,0.00124165,0.0262289
+plicp Match Successful:-0.0150499,-0.0141075,0.0524122
+plicp Match Successful:-0.00184395,-0.00762246,0.0901654
+plicp Match Successful:0.0250853,0.0100113,0.137493
+plicp Match Successful:0.0395854,0.00120583,0.0338448
+plicp Match Successful:0.0330539,0.0205025,0.0690136
+plicp Match Successful:-0.00807794,0.00130643,0.106776
+plicp Match Successful:0.003518,0.0059529,0.207132
+plicp Match Successful:-0.0114042,-0.00620779,0.135067
+plicp Match Successful:0.000293564,-0.000947845,0.0478461
+plicp Match Successful:-0.000656016,-0.0122019,0.0365431
+plicp Match Successful:-0.0714563,-0.017074,0.0224223
+plicp Match Successful:-0.016448,-0.00586007,0.0488339
+plicp Match Successful:0.00242953,-0.00119966,-0.00254977
+plicp Match Successful:-0.000844115,0.0292552,-0.0232167
+plicp Match Successful:0.00993944,0.0253442,-0.0591845
+plicp Match Successful:0.00216599,0.00387978,-0.176935
+plicp Match Successful:0.00165693,0.00810447,-0.158758
+plicp Match Successful:-0.0156352,-0.00290632,-0.0388827
+plicp Match Successful:0.00297906,0.00455177,-0.0330713
+plicp Match Successful:0.0040499,0.00109632,-0.00860114
+plicp Match Successful:-0.00134408,0.000377969,-0.014916
+plicp Match Successful:0.000847912,0.000625477,0.026982
+plicp Match Successful:-0.000582945,0.00460722,0.108938
+plicp Match Successful:-0.00868471,-0.00157203,0.182446
+plicp Match Successful:-0.00162508,0.00255706,0.263374
+plicp Match Successful:0.0001847,-0.001391,0.261957
+plicp Match Successful:-0.00281153,0.00417575,0.278248
+plicp Match Successful:4.47615e-05,0.00702352,0.262576
+plicp Match Successful:-0.00259434,-0.00514363,0.232413
+plicp Match Successful:0.00708358,-0.00787704,0.287193
+plicp Match Successful:0.00206334,0.00984022,0.142146
+plicp Match Successful:0.00842262,0.0108538,0.0751329
+plicp Match Successful:0.0149218,-0.000245764,0.0312286
+plicp Match Successful:0.0154341,-8.66656e-05,0.011323
+plicp Match Successful:0.0164031,-0.00711454,-0.0513323
+plicp Match Successful:0.013938,0.00904279,-0.057651
+plicp Match Successful:0.0148576,-0.0049837,-0.0677922
+plicp Match Successful:0.0202067,-0.00214462,-0.0548753
+plicp Match Successful:0.0146896,8.29707e-05,-0.122743
+plicp Match Successful:0.0131628,-0.00669612,-0.169675
+plicp Match Successful:0.0146126,-0.00198766,-0.16535
+plicp Match Successful:0.0238068,0.0260863,-0.0606097
+plicp Match Successful:0.0129738,-0.0106319,-0.180698
+plicp Match Successful:0.0178245,-0.00697936,-0.173875
+plicp Match Successful:0.0181506,-0.00358253,-0.196843
+plicp Match Successful:0.0240082,-0.00787953,-0.162939
+plicp Match Successful:-0.01169,0.00294576,-0.0597459
+plicp Match Successful:0.00367037,-0.000628567,0.0190739
+plicp Match Successful:-0.0200299,0.0163081,0.0748003
+plicp Match Successful:0.00389431,0.00325912,0.139455
+plicp Match Successful:0.00846408,-0.00179247,0.125376
+plicp Match Successful:0.00457874,0.00469938,0.0644097
+plicp Match Successful:0.0223544,-0.00231642,0.0291769
+plicp Match Successful:0.0534822,-0.00123757,-0.0142111
+plicp Match Successful:0.0423332,0.00442715,-0.0933451
+plicp Match Successful:0.0454989,-0.0172594,-0.183182
+plicp Match Successful:0.00990709,-0.00746248,-0.176481
+plicp Match Successful:0.0255207,-0.00504142,-0.178655
+plicp Match Successful:0.0253139,-0.00883468,-0.171468
+plicp Match Successful:0.0284367,0.0129302,-0.0663104
+plicp Match Successful:-0.00641296,-0.0128949,-0.113624
+plicp Match Successful:0.00479081,0.0056271,0.00783724
+plicp Match Successful:0.00446204,0.00159861,-0.000866854
+plicp Match Successful:0.00124607,0.00278225,-0.000153737
+plicp Match Successful:0.00663964,0.00186252,-0.00191462
+plicp Match Successful:0.00464791,0.00337715,-0.00311817
+plicp Match Successful:0.0018794,0.000327824,-0.000870359
+plicp Match Successful:0.00136318,0.00243431,-0.00145617
+plicp Match Successful:0.00211322,0.00149538,0.00161118
+plicp Match Successful:-0.0120118,-0.0124534,-0.0537377
+plicp Match Successful:0.00753895,0.0136022,-0.108689
+plicp Match Successful:0.00300323,-0.000243126,-0.21111
+plicp Match Successful:0.000394088,0.00282231,-0.301135
+plicp Match Successful:-0.00672644,-0.00195254,-0.269468
+plicp Match Successful:0.0185569,0.0133604,-0.168416
+plicp Match Successful:0.0101779,-0.00207438,-0.203727
+plicp Match Successful:0.00290878,0.00866136,-0.167838
+plicp Match Successful:0.0412216,-0.00764907,-0.0674278
+plicp Match Successful:0.0326855,-0.00144192,0.0113902
+plicp Match Successful:0.019035,0.00617201,0.0308876
+plicp Match Successful:0.0318278,-0.00374557,0.0452239
+plicp Match Successful:0.0269424,-0.00132891,0.0341995
+plicp Match Successful:0.0231118,0.00419184,0.0316535
+plicp Match Successful:-0.00307264,0.0226336,0.0909371
+plicp Match Successful:0.02849,-0.0256365,0.139629
+plicp Match Successful:-0.00223096,0.0173914,0.267016
+plicp Match Successful:0.000182508,0.0022001,0.261839
+plicp Match Successful:0.00179683,-0.0141922,0.266327
+plicp Match Successful:0.00683989,-0.0126936,0.190847
+plicp Match Successful:0.0335802,0.0223618,0.166424
+plicp Match Successful:0.0455301,-0.000234844,0.00212234
+plicp Match Successful:0.0506488,0.00218792,-0.0428262
+plicp Match Successful:0.0527613,-0.00489786,-0.0717585
+plicp Match Successful:0.0502575,-0.0120552,-0.0883097
+plicp Match Successful:0.0498055,0.0029428,-0.0552688
+plicp Match Successful:0.0466017,-0.021252,-0.0586963
+odom : x = -0.002993,y = -0.000093, phi = 0.085000 scan_odom : x = -0.002351, y = 0.000750, phi = 0.105637
+odom : x = -0.001005,y = -0.000011, phi = 0.123000 scan_odom : x = 0.002233, y = -0.008379, phi = 0.117965
+odom : x = 0.004980,y = 0.000460, phi = 0.126998 scan_odom : x = 0.010427, y = 0.007395, phi = 0.073817
+odom : x = 0.014495,y = 0.000308, phi = 0.028999 scan_odom : x = 0.028128, y = 0.001488, phi = 0.024987
+odom : x = 0.027995,y = 0.000280, phi = 0.013999 scan_odom : x = 0.036274, y = -0.004169, phi = -0.033191
+odom : x = 0.027487,y = -0.000869, phi = -0.084999 scan_odom : x = 0.018630, y = -0.001966, phi = -0.103195
+odom : x = 0.024914,y = -0.001691, phi = -0.139997 scan_odom : x = 0.031497, y = -0.003741, phi = -0.159797
+odom : x = 0.023414,y = -0.001751, phi = -0.157000 scan_odom : x = 0.021826, y = -0.010134, phi = -0.149808
+odom : x = 0.027383,y = -0.002157, phi = -0.166000 scan_odom : x = 0.023854, y = -0.009535, phi = -0.181091
+odom : x = 0.027367,y = -0.002268, phi = -0.181000 scan_odom : x = 0.027582, y = -0.002562, phi = -0.176502
+odom : x = 0.025369,y = -0.002259, phi = -0.175000 scan_odom : x = 0.024198, y = -0.006247, phi = -0.172225
+odom : x = 0.024405,y = -0.001884, phi = -0.154000 scan_odom : x = 0.015377, y = -0.006207, phi = -0.152139
+odom : x = 0.023877,y = -0.002138, phi = -0.179000 scan_odom : x = 0.025827, y = -0.006186, phi = -0.193340
+odom : x = 0.025326,y = -0.002490, phi = -0.206000 scan_odom : x = 0.024417, y = -0.006285, phi = -0.193326
+odom : x = 0.024347,y = -0.002393, phi = -0.190000 scan_odom : x = 0.021730, y = -0.007005, phi = -0.163436
+odom : x = 0.023393,y = -0.002000, phi = -0.168000 scan_odom : x = 0.023269, y = 0.001960, phi = -0.162411
+odom : x = 0.020937,y = -0.001345, phi = -0.118000 scan_odom : x = 0.022973, y = -0.006820, phi = -0.045793
+odom : x = 0.016501,y = -0.000014, phi = -0.001000 scan_odom : x = 0.013565, y = 0.000453, phi = 0.020684
+odom : x = 0.017999,y = 0.000422, phi = 0.061000 scan_odom : x = 0.014609, y = 0.000313, phi = 0.091019
+odom : x = 0.013971,y = 0.000796, phi = 0.122000 scan_odom : x = 0.018463, y = 0.000577, phi = 0.074143
+odom : x = 0.017990,y = 0.000618, phi = 0.053000 scan_odom : x = 0.013680, y = 0.002246, phi = 0.024145
+odom : x = 0.016989,y = -0.000027, phi = -0.014000 scan_odom : x = 0.019682, y = -0.004931, phi = -0.051002
+odom : x = 0.017476,y = -0.000819, phi = -0.115000 scan_odom : x = 0.016656, y = 0.002388, phi = -0.136019
+odom : x = 0.015944,y = -0.001087, phi = -0.146000 scan_odom : x = 0.022742, y = -0.003531, phi = -0.123481
+odom : x = 0.016447,y = -0.001153, phi = -0.147000 scan_odom : x = 0.014227, y = -0.002335, phi = -0.153285
+odom : x = 0.018411,y = -0.001602, phi = -0.180995 scan_odom : x = 0.015338, y = -0.002783, phi = -0.189890
+odom : x = 0.017401,y = -0.001552, phi = -0.183000 scan_odom : x = 0.019376, y = 0.000445, phi = -0.184142
+odom : x = 0.014919,y = -0.001351, phi = -0.181000 scan_odom : x = 0.010903, y = 0.001508, phi = -0.115091
+odom : x = 0.013489,y = -0.000422, phi = -0.037000 scan_odom : x = 0.015496, y = -0.006964, phi = -0.020239
+odom : x = 0.016998,y = 0.000129, phi = 0.015000 scan_odom : x = 0.015682, y = 0.000153, phi = 0.022535
+odom : x = 0.015497,y = 0.000216, phi = 0.029000 scan_odom : x = 0.017455, y = -0.000932, phi = 0.025522
+odom : x = 0.017506,y = 0.000179, phi = 0.017000 scan_odom : x = 0.016275, y = -0.000725, phi = 0.012165
+odom : x = 0.015500,y = 0.000090, phi = 0.010000 scan_odom : x = 0.017469, y = -0.014605, phi = -0.036912
+odom : x = 0.017488,y = -0.000333, phi = -0.077000 scan_odom : x = 0.017152, y = 0.000537, phi = -0.088358
+odom : x = 0.017919,y = -0.001478, phi = -0.160000 scan_odom : x = 0.016160, y = -0.003186, phi = -0.164245
+odom : x = 0.015924,y = -0.001372, phi = -0.176000 scan_odom : x = 0.018110, y = 0.000399, phi = -0.159235
+odom : x = 0.016906,y = -0.001499, phi = -0.179000 scan_odom : x = 0.014831, y = -0.001050, phi = -0.161356
+odom : x = 0.013963,y = -0.000959, phi = -0.132000 scan_odom : x = 0.011576, y = -0.006579, phi = -0.054860
+odom : x = 0.013993,y = 0.000011, phi = 0.026000 scan_odom : x = 0.023820, y = -0.006980, phi = -0.016209
+odom : x = 0.015997,y = 0.000163, phi = -0.002000 scan_odom : x = 0.011312, y = 0.004081, phi = -0.017695
+odom : x = 0.014479,y = -0.000725, phi = -0.098000 scan_odom : x = 0.004494, y = 0.007820, phi = -0.039766
+odom : x = -0.007999,y = 0.000236, phi = -0.029000 scan_odom : x = -0.001535, y = -0.006219, phi = -0.040147
+odom : x = -0.002495,y = -0.000026, phi = 0.023000 scan_odom : x = -0.008170, y = 0.002521, phi = 0.064761
+odom : x = -0.002002,y = -0.000031, phi = 0.067000 scan_odom : x = 0.003619, y = -0.005947, phi = 0.070561
+odom : x = -0.000496,y = -0.000012, phi = 0.116000 scan_odom : x = 0.003697, y = 0.000643, phi = 0.125995
+odom : x = 0.003981,y = 0.000358, phi = 0.150000 scan_odom : x = 0.004667, y = 0.002527, phi = 0.101171
+odom : x = 0.009490,y = 0.000293, phi = 0.046000 scan_odom : x = 0.007577, y = 0.003330, phi = 0.044518
+odom : x = 0.014006,y = 0.000177, phi = 0.028000 scan_odom : x = 0.019029, y = -0.006182, phi = -0.002420
+odom : x = 0.014498,y = 0.000097, phi = -0.005000 scan_odom : x = 0.013332, y = 0.001490, phi = -0.060527
+odom : x = 0.016463,y = -0.000897, phi = -0.126000 scan_odom : x = 0.017669, y = -0.004301, phi = -0.143737
+odom : x = 0.018912,y = -0.001525, phi = -0.173000 scan_odom : x = 0.020060, y = -0.003224, phi = -0.170938
+odom : x = 0.016418,y = -0.001435, phi = -0.172000 scan_odom : x = 0.017349, y = 0.002823, phi = -0.163545
+odom : x = 0.015432,y = -0.001257, phi = -0.160000 scan_odom : x = 0.010449, y = -0.004625, phi = -0.163399
+odom : x = 0.016427,y = -0.001284, phi = -0.158000 scan_odom : x = 0.015174, y = -0.003977, phi = -0.162706
+odom : x = 0.016416,y = -0.001473, phi = -0.178000 scan_odom : x = 0.015213, y = -0.010582, phi = -0.191346
+odom : x = 0.016432,y = -0.001333, phi = -0.171000 scan_odom : x = 0.020167, y = 0.001164, phi = -0.165145
+odom : x = 0.017883,y = -0.001785, phi = -0.199000 scan_odom : x = 0.011441, y = 0.003133, phi = -0.153700
+odom : x = 0.013447,y = -0.000984, phi = -0.126997 scan_odom : x = 0.014139, y = -0.006224, phi = -0.118150
+odom : x = 0.013975,y = -0.000770, phi = -0.110000 scan_odom : x = 0.013118, y = -0.000657, phi = -0.076822
+odom : x = 0.014997,y = -0.000260, phi = -0.028999 scan_odom : x = 0.014813, y = -0.004516, phi = -0.062642
+odom : x = 0.014995,y = -0.000263, phi = -0.057000 scan_odom : x = 0.012982, y = 0.009631, phi = -0.041333
+odom : x = 0.002032,y = 0.000402, phi = -0.128000 scan_odom : x = -0.014057, y = -0.008590, phi = -0.085842
+odom : x = -0.007998,y = -0.000096, phi = 0.023000 scan_odom : x = -0.003307, y = 0.007925, phi = 0.072922
+odom : x = -0.003995,y = -0.000073, phi = 0.070000 scan_odom : x = -0.003469, y = 0.002263, phi = 0.089587
+odom : x = -0.003491,y = -0.000227, phi = 0.145999 scan_odom : x = 0.001287, y = -0.001198, phi = 0.129062
+odom : x = 0.002975,y = 0.000375, phi = 0.136000 scan_odom : x = 0.008661, y = 0.011160, phi = 0.132002
+odom : x = 0.011485,y = 0.000529, phi = 0.090997 scan_odom : x = 0.013754, y = -0.002349, phi = 0.067945
+odom : x = 0.012492,y = 0.000536, phi = 0.067000 scan_odom : x = 0.015903, y = 0.002332, phi = 0.055331
+odom : x = 0.013492,y = 0.000082, phi = 0.014000 scan_odom : x = 0.013215, y = -0.006759, phi = -0.027383
+odom : x = 0.016003,y = -0.000042, phi = -0.025000 scan_odom : x = 0.022669, y = 0.011383, phi = -0.079008
+odom : x = 0.016413,y = -0.001328, phi = -0.182996 scan_odom : x = 0.006770, y = -0.004148, phi = -0.188128
+odom : x = 0.016391,y = -0.001657, phi = -0.200000 scan_odom : x = 0.011814, y = -0.000854, phi = -0.165350
+odom : x = 0.015887,y = -0.001686, phi = -0.185999 scan_odom : x = 0.018296, y = 0.008615, phi = -0.104945
+odom : x = 0.016484,y = -0.000678, phi = -0.040000 scan_odom : x = 0.011871, y = -0.010817, phi = -0.085704
+odom : x = 0.017003,y = 0.000167, phi = -0.010000 scan_odom : x = 0.021790, y = 0.004339, phi = -0.019629
+odom : x = 0.013975,y = -0.000765, phi = -0.100000 scan_odom : x = 0.009307, y = -0.000045, phi = -0.090130
+odom : x = 0.016976,y = -0.000738, phi = -0.084000 scan_odom : x = 0.010948, y = 0.005402, phi = -0.064408
+odom : x = -0.001494,y = 0.000243, phi = -0.059000 scan_odom : x = -0.013810, y = -0.004819, phi = -0.013622
+odom : x = -0.006497,y = -0.000079, phi = 0.039001 scan_odom : x = 0.002883, y = 0.003750, phi = 0.017550
+odom : x = 0.000000,y = 0.000000, phi = 0.002999 scan_odom : x = -0.001590, y = 0.001364, phi = 0.002647
+odom : x = 0.000000,y = 0.000000, phi = 0.000000 scan_odom : x = 0.001566, y = -0.000311, phi = 0.000306
+odom : x = 0.000000,y = 0.000000, phi = 0.000000 scan_odom : x = 0.000903, y = 0.000570, phi = 0.000730
+odom : x = 0.000497,y = -0.000007, phi = 0.001000 scan_odom : x = -0.006602, y = 0.011789, phi = 0.079341
+odom : x = -0.001004,y = 0.000016, phi = 0.086000 scan_odom : x = 0.010682, y = -0.019460, phi = 0.134614
+odom : x = 0.001483,y = 0.000184, phi = 0.300000 scan_odom : x = 0.005387, y = 0.001786, phi = 0.286952
+odom : x = 0.000491,y = 0.000124, phi = 0.266000 scan_odom : x = 0.002925, y = -0.004903, phi = 0.199951
+odom : x = 0.010390,y = 0.001474, phi = 0.205005 scan_odom : x = 0.017922, y = 0.005762, phi = 0.171287
+odom : x = 0.022442,y = 0.001481, phi = 0.108000 scan_odom : x = 0.036062, y = 0.000003, phi = 0.069475
+odom : x = 0.039494,y = 0.000553, phi = 0.017000 scan_odom : x = 0.047615, y = 0.001559, phi = -0.003403
+odom : x = 0.046986,y = -0.000707, phi = -0.035000 scan_odom : x = 0.050255, y = -0.001646, phi = -0.045691
+odom : x = 0.051978,y = -0.001482, phi = -0.061000 scan_odom : x = 0.054898, y = 0.005444, phi = -0.049768
+odom : x = 0.047464,y = -0.001570, phi = -0.060000 scan_odom : x = 0.046964, y = -0.006736, phi = -0.040283
+odom : x = 0.049503,y = -0.000129, phi = -0.001000 scan_odom : x = 0.052092, y = -0.001783, phi = -0.003103
+odom : x = 0.052987,y = -0.000011, phi = 0.000000 scan_odom : x = 0.055146, y = 0.000177, phi = -0.009466
+odom : x = 0.049007,y = -0.000251, phi = -0.014000 scan_odom : x = 0.052482, y = 0.006355, phi = 0.006707
+odom : x = 0.049994,y = -0.000244, phi = 0.003000 scan_odom : x = 0.050733, y = -0.014087, phi = 0.006620
+odom : x = 0.047491,y = 0.000820, phi = 0.035000 scan_odom : x = 0.052648, y = -0.001703, phi = 0.023729
+odom : x = 0.053993,y = 0.000598, phi = 0.019000 scan_odom : x = 0.054200, y = 0.005397, phi = 0.003904
+odom : x = 0.050004,y = -0.000147, phi = -0.010000 scan_odom : x = 0.048169, y = 0.006938, phi = 0.010228
+odom : x = 0.047995,y = 0.000093, phi = 0.014000 scan_odom : x = 0.053308, y = -0.007546, phi = 0.007709
+odom : x = 0.050494,y = 0.000661, phi = 0.021990 scan_odom : x = 0.051101, y = -0.005308, phi = 0.007263
+odom : x = 0.053505,y = 0.000265, phi = 0.003000 scan_odom : x = 0.056765, y = 0.013548, phi = -0.005609
+odom : x = 0.048493,y = -0.000765, phi = -0.029990 scan_odom : x = 0.047459, y = -0.008299, phi = -0.012759
+odom : x = 0.049494,y = 0.000034, phi = 0.006989 scan_odom : x = 0.053484, y = -0.007107, phi = -0.000282
+odom : x = 0.052501,y = 0.000162, phi = 0.004000 scan_odom : x = 0.052628, y = -0.004844, phi = -0.007458
+odom : x = 0.052004,y = -0.000212, phi = -0.014000 scan_odom : x = 0.054520, y = 0.009935, phi = -0.008078
+odom : x = 0.049998,y = -0.000631, phi = -0.018990 scan_odom : x = 0.047831, y = -0.005137, phi = -0.006840
+odom : x = 0.049495,y = 0.000519, phi = 0.019990 scan_odom : x = 0.051188, y = -0.001285, phi = 0.014255
+odom : x = 0.051500,y = 0.000290, phi = 0.010000 scan_odom : x = 0.054068, y = -0.001549, phi = -0.004420
+odom : x = 0.047995,y = -0.000216, phi = -0.015000 scan_odom : x = 0.051137, y = 0.014213, phi = -0.000077
+odom : x = 0.050998,y = -0.000300, phi = -0.003000 scan_odom : x = 0.049464, y = -0.007590, phi = 0.000977
+odom : x = 0.052499,y = 0.000584, phi = 0.020000 scan_odom : x = 0.052761, y = 0.004180, phi = 0.013277
+odom : x = 0.047997,y = 0.000202, phi = 0.006000 scan_odom : x = 0.055152, y = 0.009735, phi = -0.002646
+odom : x = 0.050494,y = -0.000462, phi = -0.021000 scan_odom : x = 0.049656, y = 0.005247, phi = -0.005396
+odom : x = 0.050502,y = -0.000069, phi = 0.004000 scan_odom : x = 0.051706, y = -0.001715, phi = 0.004633
+odom : x = 0.045004,y = 0.000151, phi = 0.006000 scan_odom : x = 0.052183, y = -0.007313, phi = -0.002709
+odom : x = 0.059003,y = -0.000066, phi = -0.009000 scan_odom : x = 0.049677, y = 0.022080, phi = -0.012758
+odom : x = 0.043487,y = -0.000606, phi = -0.022990 scan_odom : x = -0.003880, y = -0.006730, phi = -0.008116
+odom : x = -0.012000,y = -0.000021, phi = 0.012000 scan_odom : x = -0.000351, y = -0.001450, phi = 0.004131
+odom : x = 0.000000,y = 0.000000, phi = -0.007000 scan_odom : x = 0.000307, y = -0.002524, phi = 0.001799
+odom : x = 0.000000,y = 0.000000, phi = 0.003000 scan_odom : x = -0.000062, y = 0.052312, phi = 0.075674
+odom : x = 0.000004,y = -0.000009, phi = 0.118999 scan_odom : x = 0.005562, y = 0.002518, phi = 0.189437
+odom : x = 0.000496,y = 0.000062, phi = 0.273000 scan_odom : x = 0.049558, y = 0.201658, phi = 0.270491
+odom : x = -0.000980,y = -0.000222, phi = 0.273000 scan_odom : x = -0.012513, y = -0.025030, phi = 0.272109
+odom : x = 0.000489,y = 0.000126, phi = 0.286000 scan_odom : x = 0.018575, y = 0.023236, phi = 0.284944
+odom : x = 0.000497,y = 0.000010, phi = 0.278000 scan_odom : x = -0.039323, y = -0.032897, phi = 0.244030
+odom : x = 0.000502,y = 0.000008, phi = 0.234990 scan_odom : x = 0.039089, y = 0.022061, phi = 0.140665
+odom : x = 0.000000,y = -0.000000, phi = 0.000000 scan_odom : x = -0.003364, y = -0.000689, phi = 0.000918
+odom : x = 0.003003,y = 0.000004, phi = 0.000000 scan_odom : x = 0.005152, y = 0.001799, phi = -0.006699
+odom : x = 0.012497,y = -0.000084, phi = -0.007990 scan_odom : x = 0.019240, y = -0.000684, phi = 0.021661
+odom : x = 0.015993,y = 0.000294, phi = 0.039990 scan_odom : x = 0.021380, y = 0.000534, phi = 0.037388
+odom : x = 0.017003,y = 0.000324, phi = 0.033000 scan_odom : x = 0.021292, y = 0.001824, phi = 0.031985
+odom : x = 0.015000,y = 0.000151, phi = 0.022000 scan_odom : x = 0.018092, y = -0.001397, phi = 0.020339
+odom : x = 0.016998,y = 0.000208, phi = 0.023000 scan_odom : x = 0.022195, y = 0.000527, phi = 0.018041
+odom : x = 0.021493,y = 0.000160, phi = 0.013000 scan_odom : x = 0.026774, y = -0.002175, phi = 0.006973
+odom : x = 0.034507,y = 0.000154, phi = 0.005000 scan_odom : x = 0.032920, y = 0.001728, phi = -0.013463
+odom : x = 0.037996,y = -0.000531, phi = -0.030000 scan_odom : x = 0.033138, y = 0.000612, phi = -0.007504
+odom : x = 0.040999,y = 0.000038, phi = 0.015000 scan_odom : x = 0.040267, y = -0.001969, phi = 0.011743
+odom : x = 0.043990,y = 0.000431, phi = 0.014000 scan_odom : x = 0.031640, y = 0.001528, phi = 0.002744
+odom : x = 0.037006,y = -0.000074, phi = -0.005000 scan_odom : x = 0.038513, y = -0.001649, phi = -0.016603
+odom : x = 0.044997,y = -0.000429, phi = -0.024000 scan_odom : x = 0.047007, y = 0.001732, phi = -0.022197
+odom : x = 0.043988,y = -0.000641, phi = -0.022000 scan_odom : x = 0.029828, y = -0.003048, phi = 0.005082
+odom : x = 0.037505,y = 0.000473, phi = 0.028000 scan_odom : x = 0.045091, y = 0.000612, phi = 0.018057
+odom : x = 0.043990,y = 0.000330, phi = 0.011000 scan_odom : x = 0.044646, y = -0.000438, phi = -0.002179
+odom : x = 0.043006,y = -0.000172, phi = -0.013000 scan_odom : x = 0.041335, y = 0.000144, phi = -0.017104
+odom : x = 0.040492,y = -0.000504, phi = -0.026000 scan_odom : x = 0.043542, y = 0.001069, phi = -0.000490
+odom : x = 0.042497,y = 0.000019, phi = 0.015000 scan_odom : x = 0.048669, y = -0.001508, phi = 0.017214
+odom : x = 0.040005,y = 0.000592, phi = 0.026000 scan_odom : x = 0.038884, y = -0.000815, phi = 0.009323
+odom : x = 0.042497,y = 0.000078, phi = -0.001000 scan_odom : x = 0.040600, y = -0.000384, phi = -0.014071
+odom : x = 0.042490,y = -0.000576, phi = -0.028000 scan_odom : x = 0.046242, y = 0.001631, phi = -0.016473
+odom : x = 0.043004,y = -0.000595, phi = -0.016000 scan_odom : x = 0.056867, y = -0.002350, phi = 0.013968
+odom : x = 0.040477,y = 0.000930, phi = 0.045000 scan_odom : x = 0.052511, y = 0.001282, phi = 0.023498
+odom : x = 0.042009,y = 0.000249, phi = 0.007000 scan_odom : x = 0.042854, y = -0.000840, phi = -0.005724
+odom : x = 0.043499,y = -0.000322, phi = -0.018000 scan_odom : x = 0.058780, y = 0.001768, phi = -0.020463
+odom : x = 0.041990,y = -0.000791, phi = -0.034000 scan_odom : x = 0.056324, y = -0.000104, phi = 0.009166
+odom : x = 0.041492,y = 0.000343, phi = 0.032000 scan_odom : x = 0.045499, y = -0.002341, phi = 0.018052
+odom : x = 0.042000,y = 0.000639, phi = 0.022000 scan_odom : x = 0.039906, y = 0.001253, phi = 0.007813
+odom : x = 0.041996,y = -0.000146, phi = -0.010000 scan_odom : x = 0.052513, y = -0.000565, phi = -0.016456
+odom : x = 0.042493,y = -0.000630, phi = -0.032000 scan_odom : x = 0.036635, y = 0.000535, phi = -0.024484
+odom : x = 0.039997,y = -0.000453, phi = -0.013000 scan_odom : x = 0.043397, y = -0.002791, phi = 0.012195
+odom : x = 0.043492,y = 0.000874, phi = 0.037000 scan_odom : x = 0.042979, y = 0.000438, phi = 0.019371
+odom : x = 0.041492,y = 0.000240, phi = 0.007000 scan_odom : x = 0.041973, y = -0.001244, phi = -0.006518
+odom : x = 0.043500,y = -0.000262, phi = -0.015000 scan_odom : x = 0.021292, y = -0.000175, phi = -0.022834
+odom : x = 0.044499,y = -0.000569, phi = -0.022000 scan_odom : x = 0.052474, y = 0.001692, phi = 0.009449
+odom : x = 0.038995,y = 0.000386, phi = 0.029000 scan_odom : x = 0.058972, y = -0.001379, phi = 0.021603
+odom : x = 0.041999,y = 0.000589, phi = 0.019000 scan_odom : x = 0.020644, y = -0.000155, phi = 0.000962
+odom : x = 0.042498,y = -0.000237, phi = -0.012000 scan_odom : x = 0.043358, y = -0.002189, phi = -0.023350
+odom : x = 0.044487,y = -0.000628, phi = -0.032000 scan_odom : x = 0.047351, y = 0.001935, phi = -0.009118
+odom : x = 0.040506,y = -0.000181, phi = 0.003000 scan_odom : x = 0.032234, y = -0.004229, phi = 0.003779
+odom : x = 0.040989,y = 0.000960, phi = 0.035000 scan_odom : x = 0.047835, y = 0.003048, phi = 0.019036
+odom : x = 0.044500,y = -0.000096, phi = -0.006001 scan_odom : x = 0.063695, y = -0.001473, phi = -0.006526
+odom : x = 0.040495,y = -0.000377, phi = -0.019000 scan_odom : x = 0.075261, y = 0.000844, phi = -0.011620
+odom : x = 0.042496,y = -0.000507, phi = -0.019000 scan_odom : x = 0.032684, y = -0.000265, phi = 0.008509
+odom : x = 0.038995,y = 0.000442, phi = 0.032001 scan_odom : x = 0.037274, y = -0.000194, phi = 0.016966
+odom : x = 0.043999,y = 0.000556, phi = 0.018000 scan_odom : x = 0.050580, y = 0.000240, phi = 0.011716
+odom : x = 0.042499,y = -0.000093, phi = -0.008000 scan_odom : x = 0.076419, y = -0.002338, phi = -0.013468
+odom : x = 0.042992,y = -0.000605, phi = -0.032000 scan_odom : x = 0.063651, y = 0.000622, phi = -0.014353
+odom : x = 0.041999,y = -0.000376, phi = -0.008000 scan_odom : x = 0.024903, y = -0.002443, phi = -0.000628
+odom : x = 0.041503,y = 0.000469, phi = 0.019000 scan_odom : x = 0.039595, y = 0.000891, phi = 0.017043
+odom : x = 0.041500,y = 0.000123, phi = 0.006000 scan_odom : x = 0.031747, y = -0.001527, phi = -0.014383
+odom : x = 0.044997,y = -0.000174, phi = -0.011000 scan_odom : x = 0.011307, y = 0.001201, phi = -0.016914
+odom : x = 0.034993,y = -0.000412, phi = -0.018000 scan_odom : x = 0.031910, y = -0.000546, phi = 0.016439
+odom : x = 0.025994,y = 0.000402, phi = 0.044000 scan_odom : x = 0.007460, y = 0.000630, phi = 0.033671
+odom : x = 0.017996,y = 0.000354, phi = 0.027000 scan_odom : x = 0.014042, y = 0.001156, phi = 0.015368
+odom : x = 0.018005,y = -0.000044, phi = -0.007000 scan_odom : x = 0.021215, y = 0.000823, phi = -0.004242
+odom : x = 0.017499,y = -0.000183, phi = -0.025000 scan_odom : x = 0.025650, y = 0.000923, phi = -0.016451
+odom : x = 0.016499,y = -0.000159, phi = -0.010000 scan_odom : x = 0.009239, y = -0.000943, phi = 0.008898
+odom : x = 0.016999,y = 0.000190, phi = 0.021000 scan_odom : x = 0.015293, y = -0.001653, phi = 0.007917
+odom : x = 0.018503,y = 0.000102, phi = 0.007000 scan_odom : x = 0.024707, y = -0.001573, phi = -0.017453
+odom : x = 0.016995,y = -0.000231, phi = -0.028000 scan_odom : x = 0.008584, y = 0.001594, phi = -0.012226
+odom : x = 0.016499,y = -0.000084, phi = -0.003000 scan_odom : x = 0.013125, y = 0.001603, phi = 0.021224
+odom : x = 0.017496,y = 0.000316, phi = 0.036000 scan_odom : x = 0.031256, y = 0.002376, phi = 0.035109
+odom : x = 0.017000,y = 0.000167, phi = 0.012000 scan_odom : x = 0.012894, y = 0.005617, phi = 0.008997
+odom : x = 0.015995,y = -0.000053, phi = -0.011000 scan_odom : x = 0.061295, y = 0.001986, phi = -0.007416
+odom : x = 0.016996,y = -0.000388, phi = -0.043000 scan_odom : x = 0.007887, y = -0.000198, phi = -0.026068
+odom : x = 0.015996,y = -0.000160, phi = -0.007000 scan_odom : x = 0.021158, y = 0.001542, phi = 0.025618
+odom : x = 0.016998,y = 0.000409, phi = 0.043000 scan_odom : x = 0.012830, y = 0.000793, phi = 0.016528
+odom : x = 0.016999,y = 0.000072, phi = -0.001000 scan_odom : x = 0.012960, y = 0.001486, phi = -0.001515
+odom : x = 0.017503,y = -0.000155, phi = -0.018000 scan_odom : x = 0.014880, y = -0.002815, phi = -0.025580
+odom : x = 0.017996,y = -0.000228, phi = -0.024000 scan_odom : x = 0.010143, y = 0.000249, phi = -0.005474
+odom : x = 0.016999,y = -0.000061, phi = 0.000000 scan_odom : x = 0.021570, y = 0.000441, phi = 0.010107
+odom : x = 0.016005,y = 0.000136, phi = 0.020000 scan_odom : x = 0.017008, y = 0.002622, phi = 0.020445
+odom : x = 0.018496,y = 0.000237, phi = 0.025000 scan_odom : x = 0.016624, y = 0.001404, phi = 0.017370
+odom : x = 0.016001,y = 0.000139, phi = 0.009000 scan_odom : x = 0.018352, y = 0.003286, phi = -0.001088
+odom : x = 0.016497,y = -0.000115, phi = -0.018000 scan_odom : x = 0.009684, y = 0.001577, phi = -0.021146
+odom : x = 0.016994,y = -0.000283, phi = -0.029000 scan_odom : x = 0.008426, y = 0.004181, phi = -0.013518
+odom : x = 0.016502,y = -0.000168, phi = -0.008000 scan_odom : x = 0.020953, y = 0.000633, phi = 0.018593
+odom : x = 0.015992,y = 0.000380, phi = 0.045000 scan_odom : x = 0.016106, y = 0.005405, phi = 0.015425
+odom : x = 0.017998,y = -0.000024, phi = -0.008000 scan_odom : x = 0.018454, y = -0.001467, phi = -0.012010
+odom : x = 0.016500,y = -0.000114, phi = -0.017990 scan_odom : x = 0.008486, y = 0.008635, phi = -0.013060
+odom : x = 0.018003,y = -0.000273, phi = -0.029000 scan_odom : x = 0.007831, y = -0.002799, phi = -0.008949
+odom : x = 0.016495,y = -0.000099, phi = 0.003000 scan_odom : x = 0.030406, y = -0.000759, phi = 0.026297
+odom : x = 0.013995,y = 0.000326, phi = 0.054000 scan_odom : x = 0.002067, y = 0.008321, phi = -0.017333
+odom : x = -0.023458,y = 0.000992, phi = -0.102000 scan_odom : x = -0.023204, y = -0.010657, phi = -0.112090
+odom : x = -0.015976,y = 0.000765, phi = -0.122000 scan_odom : x = -0.028004, y = 0.012702, phi = -0.117712
+odom : x = -0.006986,y = 0.000355, phi = -0.147000 scan_odom : x = -0.006714, y = 0.001483, phi = -0.151787
+odom : x = 0.001500,y = -0.000136, phi = -0.159000 scan_odom : x = 0.011000, y = 0.011000, phi = 0.000000
+odom : x = 0.002475,y = -0.000237, phi = -0.219000 scan_odom : x = -0.227014, y = -0.227101, phi = -0.330264
+odom : x = 0.001490,y = -0.000125, phi = -0.234000 scan_odom : x = -0.328739, y = -0.107848, phi = -0.318009
+odom : x = 0.000505,y = -0.000015, phi = -0.226000 scan_odom : x = 1.066387, y = -0.195368, phi = -1.298422
+odom : x = -0.003428,y = 0.000737, phi = -0.226000 scan_odom : x = -0.009421, y = -0.003310, phi = -0.154641
+odom : x = -0.005996,y = 0.000278, phi = -0.078000 scan_odom : x = -0.002227, y = -0.002706, phi = -0.056936
+odom : x = -0.000997,y = 0.000009, phi = -0.016000 scan_odom : x = 0.004556, y = 0.015169, phi = 0.027029
+odom : x = -0.000999,y = -0.000029, phi = 0.069000 scan_odom : x = -0.001273, y = 0.001928, phi = 0.080675
+odom : x = 0.000006,y = -0.000019, phi = 0.123000 scan_odom : x = -0.031070, y = 0.000220, phi = 0.135731
+odom : x = 0.001978,y = 0.000247, phi = 0.143000 scan_odom : x = 0.030516, y = 0.003963, phi = 0.081042
+odom : x = 0.004998,y = 0.000149, phi = 0.056000 scan_odom : x = -0.003805, y = 0.008047, phi = 0.052471
+odom : x = -0.002001,y = -0.000042, phi = 0.027000 scan_odom : x = -0.004329, y = 0.018664, phi = 0.057199
+odom : x = -0.002995,y = -0.000077, phi = 0.085999 scan_odom : x = 0.001797, y = -0.011299, phi = 0.102349
+odom : x = -0.001002,y = -0.000104, phi = 0.152000 scan_odom : x = 0.003047, y = 0.009502, phi = 0.147054
+odom : x = 0.000499,y = 0.000106, phi = 0.141000 scan_odom : x = 0.000791, y = -0.000615, phi = 0.086999
+odom : x = 0.003993,y = 0.000209, phi = 0.072000 scan_odom : x = 0.002816, y = 0.007933, phi = 0.074283
+odom : x = 0.001500,y = 0.000047, phi = 0.078000 scan_odom : x = 0.021013, y = -0.000798, phi = 0.076661
+odom : x = 0.000995,y = 0.000051, phi = 0.129000 scan_odom : x = -0.006790, y = 0.003555, phi = 0.135739
+odom : x = 0.000004,y = -0.000043, phi = 0.151999 scan_odom : x = 0.010191, y = -0.004082, phi = 0.123966
+odom : x = 0.007475,y = 0.000634, phi = 0.126000 scan_odom : x = -0.000096, y = 0.009466, phi = 0.131028
+odom : x = 0.015476,y = 0.000682, phi = 0.107000 scan_odom : x = 0.025981, y = -0.000361, phi = 0.110109
+odom : x = 0.012967,y = 0.000807, phi = 0.114000 scan_odom : x = 0.024552, y = 0.002188, phi = 0.041095
+odom : x = 0.019497,y = 0.000029, phi = -0.016000 scan_odom : x = 0.012677, y = 0.001817, phi = -0.029406
+odom : x = 0.009500,y = -0.000164, phi = -0.055000 scan_odom : x = 0.001756, y = -0.001214, phi = -0.025491
+odom : x = 0.000000,y = -0.000000, phi = -0.011000 scan_odom : x = 0.002541, y = -0.003020, phi = -0.009263
+odom : x = 0.000000,y = -0.000000, phi = 0.000000 scan_odom : x = -0.002036, y = 0.001576, phi = 0.000456
+odom : x = 0.000000,y = -0.000000, phi = 0.000000 scan_odom : x = 0.000034, y = -0.001507, phi = 0.002383
+odom : x = 0.000993,y = -0.000004, phi = 0.001000 scan_odom : x = -0.033526, y = 0.025182, phi = 0.090868
+odom : x = -0.000501,y = 0.000023, phi = 0.109000 scan_odom : x = 0.019421, y = -0.000562, phi = 0.183788
+odom : x = 0.000488,y = 0.000090, phi = 0.275001 scan_odom : x = 0.002283, y = -0.008471, phi = 0.266839
+odom : x = -0.000983,y = -0.000139, phi = 0.277995 scan_odom : x = 0.000639, y = 0.024864, phi = 0.290421
+odom : x = 0.000992,y = 0.000097, phi = 0.276000 scan_odom : x = 0.017330, y = 0.007533, phi = 0.284060
+odom : x = 0.000486,y = 0.000129, phi = 0.299000 scan_odom : x = 3.779369, y = 0.070701, phi = 2.039984
+odom : x = 0.005824,y = 0.001468, phi = 0.284000 scan_odom : x = 0.020795, y = -0.007609, phi = 0.199524
+odom : x = 0.013961,y = 0.000975, phi = 0.104000 scan_odom : x = 0.020451, y = 0.007141, phi = 0.045037
+odom : x = 0.030001,y = -0.000364, phi = -0.038000 scan_odom : x = 0.034543, y = 0.012989, phi = -0.043439
+odom : x = 0.044458,y = -0.001590, phi = -0.069000 scan_odom : x = 0.044131, y = -0.001976, phi = -0.075057
+odom : x = 0.048472,y = -0.001546, phi = -0.061000 scan_odom : x = 0.054239, y = 0.010632, phi = -0.055019
+odom : x = 0.050452,y = -0.001895, phi = -0.068000 scan_odom : x = 0.043019, y = 0.003483, phi = -0.025187
+odom : x = 0.047001,y = -0.000083, phi = 0.014000 scan_odom : x = 0.056492, y = -0.020210, phi = 0.022705
+odom : x = 0.050483,y = 0.000968, phi = 0.036000 scan_odom : x = 0.052752, y = -0.003178, phi = 0.030542
+odom : x = 0.047992,y = 0.000630, phi = 0.024000 scan_odom : x = 0.053060, y = 0.004683, phi = 0.021150
+odom : x = 0.052504,y = 0.000212, phi = 0.009000 scan_odom : x = 0.048652, y = 0.003426, phi = 0.033162
+odom : x = 0.049986,y = 0.000947, phi = 0.048000 scan_odom : x = 0.053350, y = -0.010855, phi = 0.046222
+odom : x = 0.047981,y = 0.001206, phi = 0.048000 scan_odom : x = 0.052582, y = -0.009438, phi = 0.037930
+odom : x = 0.053498,y = 0.000718, phi = 0.019000 scan_odom : x = 0.057718, y = 0.008615, phi = 0.012634
+odom : x = 0.051998,y = -0.000151, phi = -0.006000 scan_odom : x = 0.049642, y = -0.000922, phi = 0.000216
+odom : x = 0.045993,y = 0.000033, phi = 0.002000 scan_odom : x = 0.050416, y = -0.009070, phi = 0.004514
+odom : x = 0.051003,y = 0.000128, phi = 0.004000 scan_odom : x = 0.055021, y = 0.003261, phi = -0.000266
+odom : x = 0.050497,y = -0.000224, phi = -0.012000 scan_odom : x = 0.051453, y = 0.000837, phi = -0.008843
+odom : x = 0.051503,y = -0.000298, phi = -0.010000 scan_odom : x = 0.049872, y = -0.007002, phi = -0.002090
+odom : x = 0.049502,y = 0.000019, phi = 0.002000 scan_odom : x = 0.054027, y = -0.004867, phi = 0.008250
+odom : x = 0.047997,y = 0.000105, phi = 0.004000 scan_odom : x = 0.054229, y = -0.003300, phi = -0.002429
+odom : x = 0.053505,y = -0.000185, phi = -0.009000 scan_odom : x = 0.054258, y = 0.000936, phi = -0.000193
+odom : x = 0.047494,y = -0.000196, phi = -0.003990 scan_odom : x = 0.054067, y = -0.009269, phi = 0.010853
+odom : x = 0.050503,y = 0.000221, phi = 0.008990 scan_odom : x = 0.050742, y = -0.010910, phi = 0.007753
+odom : x = 0.052998,y = 0.000225, phi = 0.005000 scan_odom : x = 0.055238, y = 0.002388, phi = -0.000968
+odom : x = 0.051496,y = -0.000292, phi = -0.010000 scan_odom : x = 0.049855, y = -0.001789, phi = -0.004982
+odom : x = 0.046993,y = -0.000021, phi = 0.001000 scan_odom : x = 0.051989, y = -0.006731, phi = 0.010120
+odom : x = 0.050505,y = 0.000192, phi = 0.009000 scan_odom : x = 0.057503, y = -0.005137, phi = 0.008064
+odom : x = 0.051000,y = 0.000090, phi = 0.001000 scan_odom : x = 0.051815, y = 0.001178, phi = -0.002942
+odom : x = 0.048493,y = -0.000154, phi = -0.006000 scan_odom : x = 0.050142, y = -0.001522, phi = -0.001579
+odom : x = 0.048005,y = -0.000003, phi = -0.001000 scan_odom : x = 0.042446, y = 0.007822, phi = -0.000779
+odom : x = 0.033997,y = -0.000019, phi = 0.001000 scan_odom : x = 0.012734, y = -0.001612, phi = -0.005822
+odom : x = 0.004504,y = -0.000001, phi = 0.000000 scan_odom : x = -0.002258, y = -0.000601, phi = 0.002321
+odom : x = -0.001002,y = -0.000003, phi = 0.000000 scan_odom : x = -0.000659, y = 0.000109, phi = -0.000443
+odom : x = -0.000000,y = 0.000000, phi = 0.000000 scan_odom : x = 0.002937, y = 0.006050, phi = 0.006026
+odom : x = -0.000501,y = -0.000001, phi = 0.012000 scan_odom : x = -0.000827, y = -0.008772, phi = 0.107797
+odom : x = 0.000497,y = 0.000049, phi = 0.205000 scan_odom : x = -0.002222, y = -0.003367, phi = 0.225525
+odom : x = 0.000997,y = 0.000049, phi = 0.238000 scan_odom : x = -0.001494, y = -0.001836, phi = 0.264497
+odom : x = 0.000510,y = -0.000039, phi = 0.290000 scan_odom : x = 0.006552, y = -0.001100, phi = 0.282670
+odom : x = 0.000001,y = -0.000032, phi = 0.285005 scan_odom : x = 0.019510, y = 0.011560, phi = 0.148309
+odom : x = 0.000000,y = 0.000000, phi = 0.027001 scan_odom : x = -0.004591, y = -0.000799, phi = 0.032645
+odom : x = 0.002505,y = -0.000004, phi = -0.001000 scan_odom : x = 0.010808, y = -0.000008, phi = -0.016855
+odom : x = 0.012497,y = -0.000136, phi = -0.024000 scan_odom : x = 0.007798, y = -0.001963, phi = -0.000583
+odom : x = 0.016005,y = 0.000119, phi = 0.014000 scan_odom : x = 0.022122, y = -0.000514, phi = 0.000310
+odom : x = 0.026490,y = -0.000106, phi = -0.011999 scan_odom : x = 0.025776, y = -0.001558, phi = -0.027121
+odom : x = 0.025996,y = -0.000327, phi = -0.031997 scan_odom : x = 0.023682, y = 0.006651, phi = -0.025165
+odom : x = 0.002011,y = 0.000232, phi = -0.064000 scan_odom : x = -0.010362, y = -0.001421, phi = -0.048964
+odom : x = -0.003498,y = -0.000003, phi = 0.003000 scan_odom : x = 0.002712, y = 0.000706, phi = 0.029539
+odom : x = -0.001503,y = -0.000001, phi = 0.025000 scan_odom : x = 0.002972, y = 0.000609, phi = 0.066910
+odom : x = 0.000504,y = 0.000062, phi = 0.122998 scan_odom : x = 0.008310, y = 0.001750, phi = 0.121590
+odom : x = 0.000483,y = 0.000118, phi = 0.134000 scan_odom : x = 0.014686, y = 0.001344, phi = 0.147591
+odom : x = 0.011974,y = 0.000696, phi = 0.123999 scan_odom : x = 0.003167, y = 0.000383, phi = 0.031505
+odom : x = 0.012991,y = 0.000489, phi = 0.029000 scan_odom : x = 0.021806, y = 0.000550, phi = -0.000286
+odom : x = 0.012973,y = -0.000826, phi = -0.122000 scan_odom : x = 0.013728, y = -0.000774, phi = -0.104399
+odom : x = 0.014475,y = -0.000644, phi = -0.080999 scan_odom : x = 0.018873, y = -0.003437, phi = -0.067403
+odom : x = 0.015998,y = -0.000301, phi = -0.034000 scan_odom : x = 0.022974, y = 0.001325, phi = -0.033434
+odom : x = 0.015994,y = -0.000254, phi = -0.029999 scan_odom : x = 0.004465, y = -0.000719, phi = -0.037313
+odom : x = 0.016001,y = -0.000245, phi = -0.032999 scan_odom : x = 0.012717, y = 0.000620, phi = -0.035863
+odom : x = 0.004002,y = 0.000035, phi = -0.034000 scan_odom : x = -0.011514, y = -0.001265, phi = -0.004791
+odom : x = -0.004499,y = -0.000020, phi = 0.020999 scan_odom : x = 0.002460, y = 0.003970, phi = 0.026856
+odom : x = -0.001503,y = 0.000007, phi = 0.018000 scan_odom : x = -0.012713, y = -0.001208, phi = 0.059054
+odom : x = -0.000998,y = -0.000034, phi = 0.126000 scan_odom : x = -0.002787, y = -0.002733, phi = 0.123943
+odom : x = 0.001001,y = 0.000107, phi = 0.128001 scan_odom : x = 0.012100, y = 0.000265, phi = 0.090052
+odom : x = 0.008486,y = 0.000315, phi = 0.053999 scan_odom : x = 0.010101, y = 0.003564, phi = 0.053800
+odom : x = 0.011498,y = 0.000272, phi = 0.038000 scan_odom : x = 0.002086, y = 0.003424, phi = 0.036658
+odom : x = -0.009505,y = -0.000020, phi = 0.010000 scan_odom : x = -0.000475, y = -0.003061, phi = 0.005311
+odom : x = -0.001994,y = -0.000026, phi = 0.020999 scan_odom : x = -0.009126, y = 0.006035, phi = 0.088776
+odom : x = -0.002006,y = -0.000039, phi = 0.095999 scan_odom : x = 0.003652, y = -0.000192, phi = 0.095145
+odom : x = -0.000000,y = 0.000045, phi = 0.122000 scan_odom : x = 0.004166, y = 0.004393, phi = 0.076486
+odom : x = 0.006496,y = 0.000267, phi = 0.059000 scan_odom : x = 0.010647, y = 0.002370, phi = 0.054567
+odom : x = 0.015486,y = 0.000464, phi = 0.048001 scan_odom : x = 0.018242, y = -0.001953, phi = 0.023533
+odom : x = -0.001998,y = -0.000005, phi = 0.000000 scan_odom : x = -0.003121, y = 0.000706, phi = 0.003528
+odom : x = -0.005003,y = -0.000025, phi = 0.011000 scan_odom : x = 0.001915, y = -0.002188, phi = 0.030007
+odom : x = 0.000000,y = 0.000000, phi = 0.011000 scan_odom : x = 0.013916, y = -0.014140, phi = 0.054254
+odom : x = 0.000500,y = 0.000011, phi = 0.099000 scan_odom : x = 0.019046, y = -0.001596, phi = 0.106521
+odom : x = 0.001003,y = 0.000034, phi = 0.136001 scan_odom : x = 0.004237, y = -0.006592, phi = 0.109131
+odom : x = 0.009478,y = 0.000638, phi = 0.101000 scan_odom : x = 0.003182, y = 0.015672, phi = 0.123652
+odom : x = 0.014970,y = 0.000749, phi = 0.110001 scan_odom : x = 0.015145, y = 0.008423, phi = 0.075981
+odom : x = 0.013975,y = 0.000811, phi = 0.097999 scan_odom : x = 0.017870, y = 0.000433, phi = 0.047714
+odom : x = 0.016497,y = -0.000014, phi = -0.018000 scan_odom : x = 0.019915, y = -0.010464, phi = -0.020834
+odom : x = 0.016983,y = -0.000571, phi = -0.065000 scan_odom : x = 0.025791, y = -0.014710, phi = -0.051307
+odom : x = 0.016991,y = -0.000539, phi = -0.055001 scan_odom : x = 0.016707, y = -0.004387, phi = -0.041792
+odom : x = 0.017002,y = -0.000175, phi = -0.021999 scan_odom : x = 0.014087, y = -0.000385, phi = -0.034602
+odom : x = 0.016486,y = -0.000416, phi = -0.060000 scan_odom : x = 0.026838, y = -0.009641, phi = -0.062844
+odom : x = 0.017489,y = -0.000594, phi = -0.066000 scan_odom : x = 0.018320, y = -0.004924, phi = -0.063328
+odom : x = 0.015977,y = -0.000667, phi = -0.081999 scan_odom : x = 0.017327, y = -0.005300, phi = -0.073956
+odom : x = 0.016987,y = -0.000590, phi = -0.066999 scan_odom : x = 0.014822, y = -0.008208, phi = -0.048321
+odom : x = 0.015992,y = -0.000593, phi = -0.065001 scan_odom : x = 0.018165, y = -0.007663, phi = -0.050825
+odom : x = 0.017487,y = -0.000492, phi = -0.052000 scan_odom : x = 0.016199, y = -0.009734, phi = -0.035074
+odom : x = -0.001992,y = 0.000168, phi = -0.038001 scan_odom : x = -0.004300, y = 0.000847, phi = -0.027829
+odom : x = -0.005005,y = -0.000094, phi = 0.028001 scan_odom : x = 0.000102, y = 0.011265, phi = 0.058375
+odom : x = -0.003995,y = -0.000045, phi = 0.057000 scan_odom : x = 0.015665, y = 0.003328, phi = 0.044981
+odom : x = -0.000997,y = -0.000053, phi = 0.126000 scan_odom : x = 0.008781, y = 0.002907, phi = 0.104017
+odom : x = 0.001991,y = 0.000216, phi = 0.119000 scan_odom : x = 0.004882, y = 0.000366, phi = 0.104156
+odom : x = 0.004500,y = 0.000026, phi = 0.040000 scan_odom : x = 0.001535, y = -0.004651, phi = 0.013771
+odom : x = -0.010503,y = -0.000093, phi = 0.016000 scan_odom : x = -0.001486, y = -0.005421, phi = 0.018087
+odom : x = -0.001499,y = 0.000015, phi = -0.014999 scan_odom : x = -0.002212, y = 0.007541, phi = 0.029804
+odom : x = -0.001007,y = -0.000018, phi = 0.090000 scan_odom : x = -0.003255, y = 0.007051, phi = 0.102935
+odom : x = -0.001000,y = -0.000009, phi = 0.120000 scan_odom : x = -0.006561, y = -0.013707, phi = 0.078846
+odom : x = 0.004990,y = 0.000356, phi = 0.092000 scan_odom : x = 0.010097, y = 0.009408, phi = 0.073992
+odom : x = -0.004497,y = -0.000166, phi = 0.030000 scan_odom : x = 0.000099, y = -0.008864, phi = 0.014306
+odom : x = -0.007001,y = -0.000007, phi = -0.001000 scan_odom : x = -0.000058, y = -0.005587, phi = 0.007268
+odom : x = -0.003007,y = 0.000001, phi = 0.000000 scan_odom : x = -0.001132, y = 0.010581, phi = 0.057181
+odom : x = -0.001988,y = -0.000083, phi = 0.101000 scan_odom : x = -0.001161, y = 0.002244, phi = 0.097615
+odom : x = -0.000011,y = 0.000041, phi = 0.117000 scan_odom : x = -0.003037, y = -0.021997, phi = 0.077117
+odom : x = 0.004994,y = 0.000219, phi = 0.072000 scan_odom : x = 0.016326, y = 0.012689, phi = 0.070418
+odom : x = 0.021002,y = 0.000195, phi = 0.020999 scan_odom : x = 0.015457, y = -0.024583, phi = 0.021102
+odom : x = -0.013999,y = -0.000164, phi = 0.028000 scan_odom : x = -0.001854, y = 0.011666, phi = 0.002647
+odom : x = -0.006499,y = -0.000010, phi = -0.003000 scan_odom : x = -0.001370, y = 0.009574, phi = 0.047162
+odom : x = -0.004003,y = -0.000010, phi = 0.032999 scan_odom : x = -0.003664, y = -0.006968, phi = 0.068219
+odom : x = -0.002987,y = -0.000149, phi = 0.128000 scan_odom : x = -0.003428, y = -0.006164, phi = 0.116032
+odom : x = 0.001984,y = 0.000183, phi = 0.125001 scan_odom : x = 0.009997, y = 0.015375, phi = 0.103312
+odom : x = 0.010504,y = 0.000209, phi = 0.035000 scan_odom : x = 0.010464, y = -0.004341, phi = 0.019049
+odom : x = 0.013496,y = 0.000140, phi = 0.013000 scan_odom : x = 0.005065, y = -0.003341, phi = -0.006346
+odom : x = 0.015000,y = -0.000016, phi = -0.008000 scan_odom : x = 0.016023, y = -0.000268, phi = -0.015205
+odom : x = -0.000968,y = 0.000524, phi = -0.119002 scan_odom : x = -0.011372, y = -0.010008, phi = -0.079767
+odom : x = -0.007003,y = -0.000054, phi = 0.040002 scan_odom : x = 0.008351, y = 0.029514, phi = 0.066072
+odom : x = -0.004999,y = -0.000040, phi = 0.030000 scan_odom : x = -0.008350, y = -0.009174, phi = 0.058036
+odom : x = -0.002499,y = -0.000095, phi = 0.132000 scan_odom : x = -0.003794, y = -0.006325, phi = 0.121722
+odom : x = 0.000995,y = 0.000185, phi = 0.133000 scan_odom : x = 0.002489, y = -0.005458, phi = 0.088452
+odom : x = 0.006475,y = 0.000439, phi = 0.090000 scan_odom : x = 0.008617, y = -0.008226, phi = 0.076827
+odom : x = 0.012007,y = 0.000213, phi = 0.034000 scan_odom : x = 0.018776, y = 0.006904, phi = 0.017761
+odom : x = -0.005999,y = -0.000043, phi = 0.012000 scan_odom : x = -0.008445, y = -0.007503, phi = 0.020323
+odom : x = -0.003004,y = 0.000009, phi = -0.004000 scan_odom : x = -0.008487, y = -0.006535, phi = 0.043835
+odom : x = -0.001494,y = -0.000061, phi = 0.096000 scan_odom : x = -0.003206, y = -0.000544, phi = 0.106754
+odom : x = 0.000501,y = -0.000014, phi = 0.118000 scan_odom : x = -0.003253, y = -0.002923, phi = 0.077851
+odom : x = 0.004484,y = 0.000326, phi = 0.112000 scan_odom : x = 0.013135, y = 0.006240, phi = 0.105359
+odom : x = 0.013495,y = 0.000311, phi = 0.040000 scan_odom : x = 0.019747, y = -0.002469, phi = 0.026954
+odom : x = 0.028495,y = 0.000556, phi = 0.036000 scan_odom : x = 0.011599, y = 0.006047, phi = -0.016305
+odom : x = 0.025498,y = 0.000061, phi = -0.016000 scan_odom : x = -0.001053, y = -0.005674, phi = -0.022663
+odom : x = 0.025381,y = -0.002035, phi = -0.172000 scan_odom : x = 0.026816, y = -0.008192, phi = -0.173983
+odom : x = 0.024410,y = -0.001865, phi = -0.156000 scan_odom : x = 0.044219, y = 0.018113, phi = -0.066344
+odom : x = -0.003474,y = 0.000649, phi = -0.092000 scan_odom : x = 0.050720, y = 0.059483, phi = -0.146924
+odom : x = -0.006498,y = -0.000109, phi = 0.032000 scan_odom : x = 0.004699, y = -0.009828, phi = 0.072540
+odom : x = -0.003495,y = -0.000033, phi = 0.055000 scan_odom : x = 0.011340, y = 0.005011, phi = 0.046325
+odom : x = -0.001495,y = -0.000122, phi = 0.138000 scan_odom : x = 0.000782, y = 0.001242, phi = 0.117037
+odom : x = 0.001486,y = 0.000207, phi = 0.150000 scan_odom : x = 0.008603, y = 0.000825, phi = 0.112607
+odom : x = 0.009990,y = 0.000396, phi = 0.055990 scan_odom : x = -0.015227, y = -0.025183, phi = 0.047123
+odom : x = 0.013486,y = 0.000607, phi = 0.097010 scan_odom : x = 0.014435, y = -0.000865, phi = 0.060426
+odom : x = 0.016473,y = 0.000786, phi = 0.074990 scan_odom : x = 0.016703, y = 0.001728, phi = 0.056615
+odom : x = 0.015502,y = 0.000113, phi = 0.019000 scan_odom : x = 0.004207, y = 0.000972, phi = -0.005191
+odom : x = 0.015993,y = -0.000046, phi = -0.035000 scan_odom : x = 0.050786, y = 0.006430, phi = -0.095709
+odom : x = 0.016939,y = -0.001257, phi = -0.146000 scan_odom : x = 0.020368, y = 0.000717, phi = -0.136917
+odom : x = 0.014468,y = -0.000879, phi = -0.115000 scan_odom : x = 0.020401, y = 0.002682, phi = -0.060960
+odom : x = -0.004972,y = 0.000701, phi = -0.094000 scan_odom : x = -0.014430, y = -0.002535, phi = -0.106558
+odom : x = -0.013492,y = 0.000005, phi = -0.011990 scan_odom : x = 0.000045, y = 0.002452, phi = -0.016585
+odom : x = -0.010504,y = 0.000070, phi = -0.019000 scan_odom : x = -0.015144, y = -0.001688, phi = -0.031369
+odom : x = -0.005001,y = 0.000056, phi = -0.030000 scan_odom : x = -0.008046, y = 0.000133, phi = -0.087748
+odom : x = -0.003988,y = 0.000206, phi = -0.131000 scan_odom : x = -0.011109, y = -0.006314, phi = -0.080417
+odom : x = -0.002995,y = 0.000107, phi = -0.150000 scan_odom : x = 0.000578, y = -0.004743, phi = -0.093873
+odom : x = 0.005999,y = -0.000144, phi = -0.018000 scan_odom : x = 0.014974, y = -0.003283, phi = -0.022372
+odom : x = 0.020992,y = 0.000189, phi = 0.014000 scan_odom : x = -0.003137, y = -0.004867, phi = 0.004399
+odom : x = -0.011485,y = -0.000404, phi = 0.069000 scan_odom : x = -0.027206, y = 0.005034, phi = 0.060429
+odom : x = -0.016000,y = -0.000151, phi = 0.009000 scan_odom : x = -0.025170, y = -0.017234, phi = 0.004253
+odom : x = -0.007003,y = -0.000017, phi = 0.011000 scan_odom : x = 0.000341, y = 0.001242, phi = 0.026229
+odom : x = -0.002503,y = -0.000005, phi = 0.019000 scan_odom : x = -0.015050, y = -0.014108, phi = 0.052412
+odom : x = -0.001984,y = -0.000144, phi = 0.139000 scan_odom : x = -0.001844, y = -0.007622, phi = 0.090165
+odom : x = 0.005469,y = 0.000458, phi = 0.131000 scan_odom : x = 0.025085, y = 0.010011, phi = 0.137492
+odom : x = 0.015496,y = 0.000443, phi = 0.056000 scan_odom : x = 0.039585, y = 0.001206, phi = 0.033845
+odom : x = 0.008996,y = 0.000024, phi = 0.041000 scan_odom : x = 0.033054, y = 0.020503, phi = 0.069014
+odom : x = -0.003495,y = -0.000080, phi = 0.031000 scan_odom : x = -0.008078, y = 0.001306, phi = 0.106776
+odom : x = -0.001490,y = -0.000093, phi = 0.203990 scan_odom : x = 0.003518, y = 0.005953, phi = 0.207132
+odom : x = 0.005948,y = 0.000704, phi = 0.189010 scan_odom : x = -0.011404, y = -0.006208, phi = 0.135067
+odom : x = 0.013993,y = 0.000178, phi = 0.018000 scan_odom : x = 0.000294, y = -0.000948, phi = 0.047846
+odom : x = 0.028497,y = 0.000433, phi = 0.022990 scan_odom : x = -0.000656, y = -0.012202, phi = 0.036543
+odom : x = -0.014989,y = -0.000460, phi = 0.065001 scan_odom : x = -0.071456, y = -0.017074, phi = 0.022422
+odom : x = -0.016988,y = -0.000540, phi = 0.055010 scan_odom : x = -0.016448, y = -0.005860, phi = 0.048834
+odom : x = -0.006003,y = -0.000071, phi = 0.034000 scan_odom : x = 0.002430, y = -0.001200, phi = -0.002550
+odom : x = -0.004498,y = 0.000048, phi = -0.039000 scan_odom : x = -0.000844, y = 0.029255, phi = -0.023217
+odom : x = -0.001004,y = 0.000036, phi = -0.207000 scan_odom : x = 0.009939, y = 0.025344, phi = -0.059185
+odom : x = -0.001481,y = 0.000193, phi = -0.247000 scan_odom : x = 0.002166, y = 0.003880, phi = -0.176935
+odom : x = -0.010928,y = 0.001203, phi = -0.162000 scan_odom : x = 0.001657, y = 0.008104, phi = -0.158758
+odom : x = -0.013492,y = 0.000416, phi = -0.064010 scan_odom : x = -0.015635, y = -0.002906, phi = -0.038883
+odom : x = -0.007996,y = 0.000132, phi = -0.040000 scan_odom : x = 0.002979, y = 0.004552, phi = -0.033071
+odom : x = 0.003004,y = -0.000017, phi = -0.007000 scan_odom : x = 0.004050, y = 0.001096, phi = -0.008601
+odom : x = 0.002995,y = 0.000014, phi = -0.016990 scan_odom : x = -0.001344, y = 0.000378, phi = -0.014916
+odom : x = -0.004502,y = 0.000008, phi = -0.008000 scan_odom : x = 0.000848, y = 0.000625, phi = 0.026982
+odom : x = -0.001001,y = -0.000013, phi = 0.012000 scan_odom : x = -0.000583, y = 0.004607, phi = 0.108938
+odom : x = 0.000000,y = 0.000010, phi = 0.175000 scan_odom : x = -0.008685, y = -0.001572, phi = 0.182446
+odom : x = -0.000973,y = -0.000239, phi = 0.261000 scan_odom : x = -0.001625, y = 0.002557, phi = 0.263374
+odom : x = -0.000493,y = -0.000061, phi = 0.267000 scan_odom : x = 0.000185, y = -0.001391, phi = 0.261957
+odom : x = -0.000491,y = -0.000106, phi = 0.276999 scan_odom : x = -0.002812, y = 0.004176, phi = 0.278248
+odom : x = 0.000500,y = 0.000085, phi = 0.278000 scan_odom : x = 0.000045, y = 0.007024, phi = 0.262575
+odom : x = 0.000991,y = 0.000133, phi = 0.230000 scan_odom : x = -0.002594, y = -0.005144, phi = 0.232413
+odom : x = 0.000984,y = 0.000153, phi = 0.309995 scan_odom : x = 0.007084, y = -0.007877, phi = 0.287193
+odom : x = 0.001456,y = 0.000360, phi = 0.236000 scan_odom : x = 0.002063, y = 0.009840, phi = 0.142146
+odom : x = 0.008490,y = 0.000334, phi = 0.053000 scan_odom : x = 0.008423, y = 0.010854, phi = 0.075133
+odom : x = 0.013985,y = 0.000444, phi = 0.058000 scan_odom : x = 0.014922, y = -0.000246, phi = 0.031229
+odom : x = 0.014008,y = 0.000095, phi = 0.015000 scan_odom : x = 0.015434, y = -0.000087, phi = 0.011323
+odom : x = 0.016495,y = 0.000179, phi = 0.019000 scan_odom : x = 0.016403, y = -0.007115, phi = -0.051332
+odom : x = 0.014989,y = -0.000387, phi = -0.088000 scan_odom : x = 0.013938, y = 0.009043, phi = -0.057651
+odom : x = 0.014968,y = -0.000815, phi = -0.085000 scan_odom : x = 0.014858, y = -0.004984, phi = -0.067792
+odom : x = 0.016008,y = -0.000237, phi = -0.027000 scan_odom : x = 0.020207, y = -0.002145, phi = -0.054875
+odom : x = 0.016975,y = -0.000590, phi = -0.092000 scan_odom : x = 0.014690, y = 0.000083, phi = -0.122743
+odom : x = 0.017411,y = -0.001543, phi = -0.172000 scan_odom : x = 0.013163, y = -0.006696, phi = -0.169675
+odom : x = 0.016428,y = -0.001357, phi = -0.169000 scan_odom : x = 0.014613, y = -0.001988, phi = -0.165350
+odom : x = 0.015445,y = -0.001150, phi = -0.154995 scan_odom : x = 0.023807, y = 0.026086, phi = -0.060610
+odom : x = 0.017908,y = -0.001503, phi = -0.168000 scan_odom : x = 0.012974, y = -0.010632, phi = -0.180698
+odom : x = 0.015439,y = -0.001279, phi = -0.168000 scan_odom : x = 0.017824, y = -0.006979, phi = -0.173875
+odom : x = 0.020847,y = -0.002120, phi = -0.200990 scan_odom : x = 0.018151, y = -0.003583, phi = -0.196843
+odom : x = 0.021401,y = -0.001837, phi = -0.176000 scan_odom : x = 0.024008, y = -0.007880, phi = -0.162939
+odom : x = 0.010006,y = -0.000180, phi = -0.139000 scan_odom : x = -0.011690, y = 0.002946, phi = -0.059746
+odom : x = -0.009998,y = -0.000044, phi = 0.028000 scan_odom : x = 0.003670, y = -0.000629, phi = 0.019074
+odom : x = -0.002499,y = -0.000008, phi = 0.009000 scan_odom : x = -0.020030, y = 0.016308, phi = 0.074800
+odom : x = -0.001499,y = -0.000007, phi = 0.123000 scan_odom : x = 0.003894, y = 0.003259, phi = 0.139455
+odom : x = -0.000502,y = -0.000003, phi = 0.136000 scan_odom : x = 0.008464, y = -0.001792, phi = 0.125376
+odom : x = 0.006981,y = 0.000430, phi = 0.086990 scan_odom : x = 0.004579, y = 0.004699, phi = 0.064410
+odom : x = 0.021995,y = 0.000433, phi = 0.038000 scan_odom : x = 0.022354, y = -0.002316, phi = 0.029177
+odom : x = 0.026498,y = 0.000473, phi = 0.036000 scan_odom : x = 0.053482, y = -0.001238, phi = -0.014211
+odom : x = 0.025468,y = -0.000802, phi = -0.098000 scan_odom : x = 0.042333, y = 0.004427, phi = -0.093345
+odom : x = 0.026393,y = -0.002124, phi = -0.164000 scan_odom : x = 0.045499, y = -0.017259, phi = -0.183182
+odom : x = 0.025854,y = -0.002326, phi = -0.191000 scan_odom : x = 0.009907, y = -0.007462, phi = -0.176481
+odom : x = 0.025372,y = -0.002249, phi = -0.173000 scan_odom : x = 0.025521, y = -0.005041, phi = -0.178655
+odom : x = 0.022901,y = -0.001809, phi = -0.152990 scan_odom : x = 0.025314, y = -0.008835, phi = -0.171468
+odom : x = 0.021409,y = -0.001770, phi = -0.163000 scan_odom : x = 0.028437, y = 0.012930, phi = -0.066310
+odom : x = 0.000000,y = -0.000000, phi = -0.108000 scan_odom : x = -0.006413, y = -0.012895, phi = -0.113624
+odom : x = 0.000000,y = 0.000000, phi = 0.010000 scan_odom : x = 0.004791, y = 0.005627, phi = 0.007837
+odom : x = 0.000000,y = 0.000000, phi = 0.000000 scan_odom : x = 0.004462, y = 0.001599, phi = -0.000867
+odom : x = 0.000000,y = 0.000000, phi = 0.000000 scan_odom : x = 0.001246, y = 0.002782, phi = -0.000154
+odom : x = 0.000000,y = 0.000000, phi = 0.000000 scan_odom : x = 0.006640, y = 0.001863, phi = -0.001915
+odom : x = 0.000000,y = 0.000000, phi = 0.000000 scan_odom : x = 0.004648, y = 0.003377, phi = -0.003118
+odom : x = 0.000000,y = 0.000000, phi = 0.000000 scan_odom : x = 0.001879, y = 0.000328, phi = -0.000870
+odom : x = 0.000000,y = 0.000000, phi = 0.000000 scan_odom : x = 0.001363, y = 0.002434, phi = -0.001456
+odom : x = 0.000000,y = 0.000000, phi = 0.000000 scan_odom : x = 0.002113, y = 0.001495, phi = 0.001611
+odom : x = 0.000000,y = 0.000000, phi = 0.000000 scan_odom : x = -0.012012, y = -0.012453, phi = -0.053738
+odom : x = 0.000990,y = -0.000015, phi = -0.030000 scan_odom : x = 0.007539, y = 0.013602, phi = -0.108690
+odom : x = 0.000994,y = -0.000106, phi = -0.240010 scan_odom : x = 0.003003, y = -0.000243, phi = -0.211110
+odom : x = 0.000010,y = 0.000076, phi = -0.280000 scan_odom : x = 0.000394, y = 0.002822, phi = -0.301135
+odom : x = -0.000993,y = 0.000102, phi = -0.272996 scan_odom : x = -0.006726, y = -0.001953, phi = -0.269469
+odom : x = -0.001480,y = 0.000178, phi = -0.288999 scan_odom : x = 0.018557, y = 0.013360, phi = -0.168416
+odom : x = 0.001469,y = -0.000227, phi = -0.256000 scan_odom : x = 0.010178, y = -0.002074, phi = -0.203727
+odom : x = 0.013855,y = -0.001860, phi = -0.220999 scan_odom : x = 0.002909, y = 0.008661, phi = -0.167838
+odom : x = 0.025936,y = -0.001661, phi = -0.103001 scan_odom : x = 0.041222, y = -0.007649, phi = -0.067428
+odom : x = 0.029003,y = -0.000183, phi = -0.004000 scan_odom : x = 0.032685, y = -0.001442, phi = 0.011390
+odom : x = 0.023990,y = 0.000326, phi = 0.037001 scan_odom : x = 0.019035, y = 0.006172, phi = 0.030888
+odom : x = 0.026993,y = 0.000582, phi = 0.044000 scan_odom : x = 0.031828, y = -0.003746, phi = 0.045224
+odom : x = 0.024992,y = 0.000568, phi = 0.044001 scan_odom : x = 0.026942, y = -0.001329, phi = 0.034199
+odom : x = 0.027498,y = 0.000461, phi = 0.030000 scan_odom : x = 0.023112, y = 0.004192, phi = 0.031653
+odom : x = 0.009994,y = 0.000061, phi = 0.016000 scan_odom : x = -0.003073, y = 0.022634, phi = 0.090937
+odom : x = 0.005495,y = 0.000236, phi = 0.121000 scan_odom : x = 0.028490, y = -0.025636, phi = 0.139629
+odom : x = 0.003466,y = 0.000376, phi = 0.254001 scan_odom : x = -0.002231, y = 0.017391, phi = 0.267016
+odom : x = 0.000989,y = 0.000110, phi = 0.263000 scan_odom : x = 0.000183, y = 0.002200, phi = 0.261839
+odom : x = 0.000010,y = -0.000034, phi = 0.272999 scan_odom : x = 0.001797, y = -0.014192, phi = 0.266327
+odom : x = 0.001454,y = 0.000372, phi = 0.288003 scan_odom : x = 0.006840, y = -0.012694, phi = 0.190847
+odom : x = 0.021276,y = 0.002794, phi = 0.197000 scan_odom : x = 0.033580, y = 0.022362, phi = 0.166424
+odom : x = 0.035994,y = 0.000591, phi = 0.022000 scan_odom : x = 0.045530, y = -0.000235, phi = 0.002122
+odom : x = 0.044986,y = -0.000579, phi = -0.033000 scan_odom : x = 0.050649, y = 0.002188, phi = -0.042826
+odom : x = 0.050963,y = -0.001718, phi = -0.070000 scan_odom : x = 0.052761, y = -0.004898, phi = -0.071759
+odom : x = 0.050429,y = -0.002390, phi = -0.092000 scan_odom : x = 0.050257, y = -0.012055, phi = -0.088310
+odom : x = 0.046456,y = -0.001736, phi = -0.074000 scan_odom : x = 0.049806, y = 0.002943, phi = -0.055269
+odom : x = 0.050965,y = -0.001457, phi = -0.053000 scan_odom : x = 0.046602, y = -0.021252, phi = -0.058696
+iter      cost      cost_change  |gradient|   |step|    tr_ratio  tr_radius  ls_iter  iter_time  total_time
+   0  1.431852e+03    0.00e+00    1.82e+03   0.00e+00   0.00e+00  1.00e+04        0    1.34e-02    1.36e-02
+   1  3.474925e+01    1.40e+03    2.15e+02   1.05e+00   9.83e-01  3.00e+04        0    1.31e-02    2.66e-02
+   2  1.180891e+01    2.29e+01    2.71e+01   3.78e-01   9.36e-01  8.88e+04        0    1.30e-02    3.96e-02
+   3  1.035571e+01    1.45e+00    3.22e+00   2.00e-01   9.24e-01  2.28e+05        0    1.30e-02    5.27e-02
+   4  1.025511e+01    1.01e-01    1.51e-01   1.43e-01   8.41e-01  3.34e+05        0    1.30e-02    6.57e-02
+   5  1.023695e+01    1.82e-02    4.86e-01   2.65e-01   9.58e-01  1.00e+06        0    1.31e-02    7.88e-02
+   6  1.023616e+01    7.88e-04    1.55e-02   2.67e-02   9.98e-01  3.01e+06        0    1.30e-02    9.18e-02
+Initial l_x: 0.000000 l_y: 0.000000 l_theta: 0.000000,Final l_x: -0.000535 l_y: -0.272750 l_theta: 0.018228

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -O3 -Wall  -shared -Wl,-soname,libgmock.so -o ../lib/libgmock.so CMakeFiles/gmock.dir/src/gmock-all.cc.o  -Wl,-rpath,/home/melody/home_work/shenlan_homework/second/lidar_localization_ws/src/lidar_localization/cmake-build-debug/gtest/lib ../lib/libgtest.so -lpthread 

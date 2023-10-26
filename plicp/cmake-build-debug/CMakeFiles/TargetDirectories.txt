@@ -1,0 +1,3 @@
+/home/melody/home_work/plicp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/melody/home_work/plicp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/melody/home_work/plicp/cmake-build-debug/CMakeFiles/plicp.dir

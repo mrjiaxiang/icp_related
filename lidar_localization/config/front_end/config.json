@@ -1,0 +1,73 @@
+
+{
+  "data_path" : "/home/melody/home_work/shenlan_homework/second/lidar_localization_ws/src/lidar_localization",
+
+  "registration_method" : "SICP",
+
+  "key_frame_distance" : "2.0",
+  "local_frame_num" : "20",
+  "local_map_filter" : "voxel_filter",
+
+  "display_filter" : "voxel_filter",
+  "frame_filter" : "voxel_filter",
+
+  "voxel_filter" : {
+
+    "local_map" : {
+      "leaf_size_x" : 0.6,
+      "leaf_size_y" : 0.6,
+      "leaf_size_z" : 0.6
+    },
+
+    "frame" : {
+      "leaf_size_x" : 1.3,
+      "leaf_size_y" : 1.3,
+      "leaf_size_z" : 1.3
+    },
+
+    "display" : {
+      "leaf_size_x" : 0.5,
+      "leaf_size_y" : 0.5,
+      "leaf_size_z" : 0.5
+    }
+  },
+
+  "ICP" : {
+    "max_corr_dist" : 1.2,
+    "trans_eps" : 0.01,
+    "euc_fitness_eps" : 0.36,
+    "max_iter" : 30
+  },
+
+  "ICP_SVD" : {
+    "max_corr_dist" : 1.2,
+    "trans_eps" : 0.01,
+    "euc_fitness_eps" : 0.36,
+    "max_iter" : 10
+  },
+
+  "NDT" : {
+    "res" : 1.0,
+    "step_size" : 0.1,
+    "trans_eps" : 0.01,
+    "max_iter" : 30
+  },
+
+  "SICP" : {
+    "p" : 1.0,
+    "mu" : 10.0,
+    "alpha" : 1.2,
+    "max_mu" : 1e5,
+    "max_icp" : 100,
+    "max_outer" : 100,
+    "max_inner" : 1,
+    "stop" : 1e-5
+  },
+
+  "IMLS" : {
+    "r" : 0.1,
+    "h" : 0.1,
+    "max_iter" : 30
+  }
+}
+
